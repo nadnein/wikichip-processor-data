@@ -13,7 +13,7 @@ def main():
 
     save_results_to_csv(
         processors,
-        columns=["Processor", "TDP (W)", "Launch Date", "Cores", "Threads"]
+        columns=["Processor", "Launch Date", "Source", "TDP (W)", "Cores", "Threads"]
     )
 
 if __name__ == "__main__":

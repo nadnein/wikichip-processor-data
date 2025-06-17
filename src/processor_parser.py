@@ -55,7 +55,7 @@ def get_processor_data(titles, batch_size):
     Fetches processor metadata from WikiChip for given titles.
 
     Returns:
-        List of tuples: (title, tdp, launch_date, cores, threads)
+        List of tuples: (title, source, launch_date, tdp, cores, threads)
     """
     results = []
     total_batches = (len(titles) + batch_size - 1) // batch_size
@@ -96,20 +96,21 @@ def get_processor_data(titles, batch_size):
 
         for title, data in ask_results.items():
             printouts = data.get("printouts", {})
-            tdp_list = printouts.get("tdp", [])
             launch_date_list = printouts.get("first launched", [])
+            tdp_list = printouts.get("tdp", [])
             cores_list = printouts.get("core count", [])
             threads_list = printouts.get("thread count", [])
 
-            tdp = tdp_list[0]["value"] if tdp_list and "value" in tdp_list[0] else None
             launch_date = launch_date_list[0]["timestamp"] if launch_date_list and "timestamp" in launch_date_list[0] else None
-            cores = cores_list[0] if cores_list else None
-            threads = threads_list[0] if threads_list else None
+            tdp = tdp_list[0]["value"] if tdp_list and "value" in tdp_list[0] else None
+            cores = int(cores_list[0]) if cores_list else None
+            threads = int(threads_list[0]) if threads_list else None
 
             if tdp and cores:
-                launch_fmt = datetime.fromtimestamp(int(launch_date), tz=timezone.utc).strftime('%Y-%m-%d %H:%M:%S') if launch_date else ""
+                launch_fmt = datetime.fromtimestamp(int(launch_date), tz=timezone.utc).strftime('%Y-%m-%d') if launch_date else ""
                 display = data.get("displaytitle", title)
-                results.append((display, tdp, launch_fmt, cores, threads))
+                source = data.get("fullurl", None)
+                results.append((display, launch_fmt, source, tdp, cores, threads))
 
 
         wait = round(random.uniform(*DELAY_RANGE), 2)

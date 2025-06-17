@@ -1,5 +1,47 @@
-# .gitignore
-.venv/
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# macOS Finder files
 .DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debug
+*.log
+
+# Coverage and testing
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Environments
+.env
+.env.*
+
+# IDEs
+.idea/
+
+# CSVs or JSONs (optional - if they are generated files)
+#*.csv
+#*.json
