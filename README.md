@@ -3,8 +3,9 @@
 This project fetches processor information from [WikiChip](https://en.wikichip.org) using its public MediaWiki API. It collects data such as:
 
 - Processor name
-- Thermal Design Power (TDP)
 - Launch date
+- Thermal Design Power (TDP)
+- Source
 - Core count
 - Thread count
 
