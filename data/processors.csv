@@ -1,4 +1,4 @@
-Processor,Launch Date,Source,TDP (W),Cores,Threads
+name,launch date,source,tdp (W),cores,threads
 A4-9120C  - AMD,2019-01-06,https://en.wikichip.org/wiki/amd/a4/a4-9120c,6.0,2,2.0
 A6-9220C  - AMD,2019-01-06,https://en.wikichip.org/wiki/amd/a6/a6-9220c,6.0,2,2.0
 A8 7680  - AMD,2019-01-17,https://en.wikichip.org/wiki/amd/a8/7680,45.0,4,4.0
@@ -64,36 +64,36 @@ Athlon XP-M 1000  - AMD,,https://en.wikichip.org/wiki/amd/athlon_xp-m/axml1000gt
 Athlon XP-M 1200+  - AMD,,https://en.wikichip.org/wiki/amd/athlon_xp-m/axml1200gts3b,16.0,1,1.0
 Athlon XP-M 1300+  - AMD,,https://en.wikichip.org/wiki/amd/athlon_xp-m/axml1300gcs3b,16.0,1,1.0
 Athlon XP-M 1300+  - AMD,,https://en.wikichip.org/wiki/amd/athlon_xp-m/axml1300gys3b,16.0,1,1.0
-Athlon XP-M 1400+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1400gws3b,25.0,1,1.0
 Athlon XP-M 1400+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1400gws3c,25.0,1,1.0
 Athlon XP-M 1400+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1400gxs3b,25.0,1,1.0
 Athlon XP-M 1400+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1400gxs3c,25.0,1,1.0
 Athlon XP-M 1400+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axml1400gys3b,16.0,1,1.0
 Athlon XP-M 1400+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axml1400gys3c,16.0,1,1.0
-Athlon XP-M 1500+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1500gws3b,25.0,1,1.0
-Athlon XP-M 1500+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1500gws3c,25.0,1,1.0
+Athlon XP-M 1400+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1400gws3b,25.0,1,1.0
 Athlon XP-M 1500+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1500gxs3b,25.0,1,1.0
 Athlon XP-M 1500+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1500gxs3c,25.0,1,1.0
 Athlon XP-M 1500+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axml1500gys3b,16.0,1,1.0
-Athlon XP-M 1600+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1600gws3b,25.0,1,1.0
-Athlon XP-M 1600+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1600gws3c,25.0,1,1.0
+Athlon XP-M 1500+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1500gws3b,25.0,1,1.0
+Athlon XP-M 1500+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1500gws3c,25.0,1,1.0
 Athlon XP-M 1600+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1600gxs3b,25.0,1,1.0
 Athlon XP-M 1600+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1600gxs3c,25.0,1,1.0
+Athlon XP-M 1600+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1600gws3b,25.0,1,1.0
+Athlon XP-M 1600+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1600gws3c,25.0,1,1.0
 Athlon XP-M 1700+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1700gxs3c,25.0,1,1.0
-Athlon XP-M 1800+  - AMD,,https://en.wikichip.org/wiki/amd/athlon_xp-m/axmd1800gjq4c,35.0,1,1.0
 Athlon XP-M 1800+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1800gxs3c,25.0,1,1.0
 Athlon XP-M 1800+  - AMD,,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1800gxs4c,25.0,1,1.0
 Athlon XP-M 1800+  - AMD,2003-03-12,https://en.wikichip.org/wiki/amd/athlon_xp-m/axmd1800gjq3c,35.0,1,1.0
+Athlon XP-M 1800+  - AMD,,https://en.wikichip.org/wiki/amd/athlon_xp-m/axmd1800gjq4c,35.0,1,1.0
 Athlon XP-M 1900+  - AMD,2003-06-17,https://en.wikichip.org/wiki/amd/athlon_xp-m/axmd1900gjq3c,35.0,1,1.0
 Athlon XP-M 1900+  - AMD,,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms1900gxs4c,25.0,1,1.0
-Athlon XP-M 2000+  - AMD,2003-06-17,https://en.wikichip.org/wiki/amd/athlon_xp-m/axmd2000gjq3c,35.0,1,1.0
 Athlon XP-M 2000+  - AMD,,https://en.wikichip.org/wiki/amd/athlon_xp-m/axmd2000gjq4c,35.0,1,1.0
 Athlon XP-M 2000+  - AMD,,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms2000gxs4c,25.0,1,1.0
+Athlon XP-M 2000+  - AMD,2003-06-17,https://en.wikichip.org/wiki/amd/athlon_xp-m/axmd2000gjq3c,35.0,1,1.0
 Athlon XP-M 2100+  - AMD,2004-03-17,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms2100gxs4b,25.0,1,1.0
 Athlon XP-M 2100+  - AMD,2004-03-17,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms2100gxs4c,25.0,1,1.0
+Athlon XP-M 2200+  - AMD,2004-07-19,https://en.wikichip.org/wiki/amd/athlon_xp-m/axmt2200gws4c,27.0,1,1.0
 Athlon XP-M 2200+  - AMD,2004-07-19,https://en.wikichip.org/wiki/amd/athlon_xp-m/axmd2200gjq4c,35.0,1,1.0
 Athlon XP-M 2200+  - AMD,2004-07-19,https://en.wikichip.org/wiki/amd/athlon_xp-m/axms2200gws4c,25.0,1,1.0
-Athlon XP-M 2200+  - AMD,2004-07-19,https://en.wikichip.org/wiki/amd/athlon_xp-m/axmt2200gws4c,27.0,1,1.0
 Athlon XP-M 2400+  - AMD,,https://en.wikichip.org/wiki/amd/athlon_xp-m/axmd2400gjq4c,35.0,1,1.0
 Athlon XP-M 2600+  - AMD,,https://en.wikichip.org/wiki/amd/athlon_xp-m/axmd2600gjq4d,35.0,1,1.0
 Athlon XP-M 950  - AMD,,https://en.wikichip.org/wiki/amd/athlon_xp-m/axml0950gts3b,16.0,1,1.0
@@ -651,8 +651,8 @@ Duron 1800 (Applebred)  - AMD,2003-08-15,https://en.wikichip.org/wiki/amd/duron/
 Duron 550 (Spitfire)  - AMD,2000-06-19,https://en.wikichip.org/wiki/amd/duron/d550aut1b,25.4,1,1.0
 Duron 600 (Spitfire)  - AMD,2000-06-19,https://en.wikichip.org/wiki/amd/duron/d600ast1b,22.7,1,1.0
 Duron 600 (Spitfire)  - AMD,2000-06-19,https://en.wikichip.org/wiki/amd/duron/d600aut1b,27.4,1,1.0
-Duron 650 (Spitfire)  - AMD,2000-06-19,https://en.wikichip.org/wiki/amd/duron/d650ast1b,24.3,1,1.0
 Duron 650 (Spitfire)  - AMD,2000-06-19,https://en.wikichip.org/wiki/amd/duron/d650aut1b,29.4,1,1.0
+Duron 650 (Spitfire)  - AMD,2000-06-19,https://en.wikichip.org/wiki/amd/duron/d650ast1b,24.3,1,1.0
 Duron 700 (Spitfire)  - AMD,2000-06-19,https://en.wikichip.org/wiki/amd/duron/d700ast1b,25.5,1,1.0
 Duron 700 (Spitfire)  - AMD,2000-06-19,https://en.wikichip.org/wiki/amd/duron/d700aut1b,31.4,1,1.0
 Duron 700 (Spitfire)  - AMD,2000-10-17,https://en.wikichip.org/wiki/amd/duron/d700avs1b,21.3,1,1.0
