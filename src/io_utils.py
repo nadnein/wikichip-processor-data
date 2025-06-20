@@ -11,9 +11,9 @@ def load_json_from_file(filename):
         print(f"❌ File {filename} not found.")
         return None
     with open(filename, "r") as f:
-        json = json.load(f)
-        print(f"✅ Loaded {len(json)} entries from {filename}")
-        return json.load(f)
+        json_file = json.load(f)
+        print(f"✅ Loaded {len(json_file)} entries from {filename}")
+        return json_file
 
 def save_df_to_csv(df, filename):
     df.to_csv(filename, index=False)

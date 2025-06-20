@@ -1,0 +1,21 @@
+product_id,name,time,source,intended_usage,cores,threads,tdp (W)
+M128-30,M128-30,2025-06-20 13:51:11,https://amperecomputing.com/briefs/ampere-altra-family-product-brief,compute cluster,128,128,183.0
+M128-28,M128-28,2025-06-20 13:51:11,https://amperecomputing.com/briefs/ampere-altra-family-product-brief,compute cluster,128,128,154.0
+M128-26,M128-26,2025-06-20 13:51:11,https://amperecomputing.com/briefs/ampere-altra-family-product-brief,compute cluster,128,128,133.0
+M96-30,M96-30,2025-06-20 13:51:11,https://amperecomputing.com/briefs/ampere-altra-family-product-brief,compute cluster,96,96,157.0
+M96-28,M96-28,2025-06-20 13:51:11,https://amperecomputing.com/briefs/ampere-altra-family-product-brief,compute cluster,96,96,132.0
+Q80-30,Q80-30,2025-06-20 13:51:11,https://amperecomputing.com/briefs/ampere-altra-family-product-brief,compute cluster,80,80,161.0
+Q80-28,Q80-28,2025-06-20 13:51:11,https://amperecomputing.com/briefs/ampere-altra-family-product-brief,compute cluster,80,80,124.0
+Q80-26,Q80-26,2025-06-20 13:51:11,https://amperecomputing.com/briefs/ampere-altra-family-product-brief,compute cluster,80,80,113.0
+Q64-30,Q64-30,2025-06-20 13:51:11,https://amperecomputing.com/briefs/ampere-altra-family-product-brief,compute cluster,64,64,124.0
+Q64-26,Q64-26,2025-06-20 13:51:11,https://amperecomputing.com/briefs/ampere-altra-family-product-brief,compute cluster,64,64,87.0
+Q64-22,Q64-22,2025-06-20 13:51:11,https://amperecomputing.com/briefs/ampere-altra-family-product-brief,compute cluster,64,64,69.0
+Q32-17,Q32-17,2025-06-20 13:51:11,https://amperecomputing.com/briefs/ampere-altra-family-product-brief,compute cluster,32,32,40.0
+AmpereOne A192-32X,AmpereOne A192-32X,2025-03-20 11:27:46,https://amperecomputing.com/briefs/ampereone-family-product-brief,compute cluster,192,192,276.0
+AmpereOne A192-26X,AmpereOne A192-26X,2025-03-20 11:27:46,https://amperecomputing.com/briefs/ampereone-family-product-brief,compute cluster,192,192,211.0
+AmpereOne A160-28X,AmpereOne A160-28X,2025-03-20 11:27:46,https://amperecomputing.com/briefs/ampereone-family-product-brief,compute cluster,160,160,215.0
+AmpereOne A144-27X,AmpereOne A144-27X,2025-03-20 11:27:46,https://amperecomputing.com/briefs/ampereone-family-product-brief,compute cluster,144,144,214.0
+AmpereOne A144-26X,AmpereOne A144-26X,2025-03-20 11:27:46,https://amperecomputing.com/briefs/ampereone-family-product-brief,compute cluster,144,144,332.0
+AmpereOne A144-24X,AmpereOne A144-24X,2025-03-20 11:27:46,https://amperecomputing.com/briefs/ampereone-family-product-brief,compute cluster,144,144,185.0
+AmpereOne A128-34X,AmpereOne A128-34X,2025-03-20 11:27:46,https://amperecomputing.com/briefs/ampereone-family-product-brief,compute cluster,128,128,280.0
+AmpereOne A96-37X,AmpereOne A96-37X,2025-03-20 11:27:46,https://amperecomputing.com/briefs/ampereone-family-product-brief,compute cluster,96,96,292.0

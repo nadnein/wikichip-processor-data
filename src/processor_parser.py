@@ -1,7 +1,7 @@
+from .config import API_URL, MAX_RETRIES, DELAY_RANGE
 import random
 import time
 from datetime import datetime, timezone
-from .config import API_URL, MAX_RETRIES, DELAY_RANGE
 import requests
 import json
 
@@ -63,7 +63,7 @@ def get_processor_data(titles, batch_size):
     for batch_idx in range(0, len(titles), batch_size):
         batch = titles[batch_idx:batch_idx + batch_size]
         query_str = " OR ".join(f"[[{t}]]" for t in batch)
-        ask_query = f"{query_str}|?tdp|?first launched|?core count|?thread count|?model|?name"
+        ask_query = f"{query_str}|?tdp|?first launched|?core count|?thread count|?model|?name|?market segment"
 
         params = {
             "action": "ask",
@@ -100,17 +100,20 @@ def get_processor_data(titles, batch_size):
             tdp_list = printouts.get("tdp", [])
             cores_list = printouts.get("core count", [])
             threads_list = printouts.get("thread count", [])
+            market_segment_list = printouts.get("market segment", [])
 
             launch_date = launch_date_list[0]["timestamp"] if launch_date_list and "timestamp" in launch_date_list[0] else None
             tdp = tdp_list[0]["value"] if tdp_list and "value" in tdp_list[0] else None
             cores = int(cores_list[0]) if cores_list else None
             threads = int(threads_list[0]) if threads_list else None
+            # Join all market segments as a single string, or None if empty
+            market_segment = "; ".join(str(seg) for seg in market_segment_list) if market_segment_list else None
 
             if tdp and cores:
                 launch_fmt = datetime.fromtimestamp(int(launch_date), tz=timezone.utc).strftime('%Y-%m-%d') if launch_date else ""
                 display = data.get("displaytitle", title)
                 source = data.get("fullurl", None)
-                results.append((display, launch_fmt, source, tdp, cores, threads))
+                results.append((display, launch_fmt, source, market_segment, tdp, cores, threads))
 
 
         wait = round(random.uniform(*DELAY_RANGE), 2)
