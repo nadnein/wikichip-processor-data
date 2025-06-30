@@ -867,26 +867,26 @@ intel xeon w-3265,intel xeon w-3265,Intel® Xeon® W-3265 Processor,205.0,205.0,
 intel xeon w-3265m,intel xeon w-3265m,Intel® Xeon® W-3265M Processor,205.0,205.0,False,24,24,False
 intel xeon w-3275,intel xeon w-3275,Intel® Xeon® W-3275 Processor,205.0,205.0,False,28,28,False
 intel xeon w-3275m,intel xeon w-3275m,Intel® Xeon® W-3275M Processor,205.0,205.0,False,28,28,False
-m128-30,M128-30,M128-30,183.0,183.0,False,128,128,False
-m128-28,M128-28,M128-28,154.0,154.0,False,128,128,False
-m128-26,M128-26,M128-26,133.0,133.0,False,128,128,False
-m96-30,M96-30,M96-30,157.0,157.0,False,96,96,False
-m96-28,M96-28,M96-28,132.0,132.0,False,96,96,False
-q80-30,Q80-30,Q80-30,161.0,161.0,False,80,80,False
-q80-28,Q80-28,Q80-28,124.0,124.0,False,80,80,False
-q80-26,Q80-26,Q80-26,113.0,113.0,False,80,80,False
-q64-30,Q64-30,Q64-30,124.0,124.0,False,64,64,False
-q64-26,Q64-26,Q64-26,87.0,87.0,False,64,64,False
-q64-22,Q64-22,Q64-22,69.0,69.0,False,64,64,False
-q32-17,Q32-17,Q32-17,40.0,40.0,False,32,32,False
-ampereone a192-32x,AmpereOne A192-32X,AmpereOne A192-32X,276.0,276.0,False,192,192,False
-ampereone a192-26x,AmpereOne A192-26X,AmpereOne A192-26X,211.0,211.0,False,192,192,False
-ampereone a160-28x,AmpereOne A160-28X,AmpereOne A160-28X,215.0,215.0,False,160,160,False
-ampereone a144-27x,AmpereOne A144-27X,AmpereOne A144-27X,214.0,214.0,False,144,144,False
-ampereone a144-26x,AmpereOne A144-26X,AmpereOne A144-26X,332.0,332.0,False,144,144,False
-ampereone a144-24x,AmpereOne A144-24X,AmpereOne A144-24X,185.0,185.0,False,144,144,False
-ampereone a128-34x,AmpereOne A128-34X,AmpereOne A128-34X,280.0,280.0,False,128,128,False
-ampereone a96-37x,AmpereOne A96-37X,AmpereOne A96-37X,292.0,292.0,False,96,96,False
+m128-30,m128-30,M128-30,183.0,183.0,False,128,128,False
+m128-28,m128-28,M128-28,154.0,154.0,False,128,128,False
+m128-26,m128-26,M128-26,133.0,133.0,False,128,128,False
+m96-30,m96-30,M96-30,157.0,157.0,False,96,96,False
+m96-28,m96-28,M96-28,132.0,132.0,False,96,96,False
+q80-30,q80-30,Q80-30,161.0,161.0,False,80,80,False
+q80-28,q80-28,Q80-28,124.0,124.0,False,80,80,False
+q80-26,q80-26,Q80-26,113.0,113.0,False,80,80,False
+q64-30,q64-30,Q64-30,124.0,124.0,False,64,64,False
+q64-26,q64-26,Q64-26,87.0,87.0,False,64,64,False
+q64-22,q64-22,Q64-22,69.0,69.0,False,64,64,False
+q32-17,q32-17,Q32-17,40.0,40.0,False,32,32,False
+ampereone a192-32x,ampereone a192-32x,AmpereOne A192-32X,276.0,276.0,False,192,192,False
+ampereone a192-26x,ampereone a192-26x,AmpereOne A192-26X,211.0,211.0,False,192,192,False
+ampereone a160-28x,ampereone a160-28x,AmpereOne A160-28X,215.0,215.0,False,160,160,False
+ampereone a144-27x,ampereone a144-27x,AmpereOne A144-27X,214.0,214.0,False,144,144,False
+ampereone a144-26x,ampereone a144-26x,AmpereOne A144-26X,332.0,332.0,False,144,144,False
+ampereone a144-24x,ampereone a144-24x,AmpereOne A144-24X,185.0,185.0,False,144,144,False
+ampereone a128-34x,ampereone a128-34x,AmpereOne A128-34X,280.0,280.0,False,128,128,False
+ampereone a96-37x,ampereone a96-37x,AmpereOne A96-37X,292.0,292.0,False,96,96,False
 default compute cluster,default compute cluster,default compute cluster,11.4,7.23,True,1,1,False
 default local,default local,default local,12.82,7.65,True,1,1,False
 default embedded,default embedded,default embedded,8.49,5.45,True,1,1,False

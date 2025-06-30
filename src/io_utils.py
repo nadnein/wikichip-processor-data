@@ -27,6 +27,6 @@ def load_csv_from_file(filename):
         print(f"❌ File {filename} not found.")
         return None
     df = pd.read_csv(filename)
-    print(f"✅ Loaded DataFrame from {filename}")
+    print(f"✅ Loaded DataFrame from {filename} with {len(df)} entries.")
     return df
 

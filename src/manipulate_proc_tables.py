@@ -56,7 +56,7 @@ def add_default_rows(df):
         })
 
     # Add a general default row for all processors if not already present
-    if "default default" not in existing_names:
+    if "default" not in existing_names:
         filtered_all = df[df["cores"].notna() & (df["cores"] > 0) & df["tdp (W)"].notna()]
         if not filtered_all.empty:
             tdp_per_core_all = (filtered_all["tdp (W)"] / filtered_all["cores"]).mean()
@@ -69,7 +69,7 @@ def add_default_rows(df):
                     if seg:
                         all_segments.add(seg)
             new_rows.append({
-                "name": "default default",
+                "name": "default",
                 "launch date": "",
                 "source": "",
                 "intended usage": "; ".join(sorted(all_segments)),

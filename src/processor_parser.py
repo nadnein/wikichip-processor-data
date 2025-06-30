@@ -1,4 +1,4 @@
-from .config import API_URL, MAX_RETRIES, DELAY_RANGE
+from .config import API_URL, MAX_RETRIES, DELAY_RANGE, EXPECTED_PROCESS_UNIT, EXPECTED_DIE_AREA_UNIT
 import random
 import time
 from datetime import datetime, timezone
@@ -63,7 +63,7 @@ def get_processor_data(titles, batch_size):
     for batch_idx in range(0, len(titles), batch_size):
         batch = titles[batch_idx:batch_idx + batch_size]
         query_str = " OR ".join(f"[[{t}]]" for t in batch)
-        ask_query = f"{query_str}|?tdp|?first launched|?core count|?thread count|?model|?name|?market segment"
+        ask_query = f"{query_str}|?tdp|?first launched|?core count|?thread count|?model|?name|?market segment|?process|?die area"
 
         params = {
             "action": "ask",
@@ -76,7 +76,7 @@ def get_processor_data(titles, batch_size):
                 response = session.get(API_URL, params=params)
                 resp = response.json()
 
-                # 🚨 Check for API-level errors (e.g. query too complex)
+                # Check for API-level errors (e.g. query too complex)
                 if "error" in resp:
                     print(f"🚨 API Error in batch {batch_idx // batch_size + 1}/{total_batches}")
                     print("➡️  Message:", json.dumps(resp["error"], indent=2))
@@ -101,6 +101,10 @@ def get_processor_data(titles, batch_size):
             cores_list = printouts.get("core count", [])
             threads_list = printouts.get("thread count", [])
             market_segment_list = printouts.get("market segment", [])
+            process_list = printouts.get("process", [])
+            die_area_list = printouts.get("die area", [])
+            #print(f"process list: {process_list}")
+            #print(f"die area list: {die_area_list}")
 
             launch_date = launch_date_list[0]["timestamp"] if launch_date_list and "timestamp" in launch_date_list[0] else None
             tdp = tdp_list[0]["value"] if tdp_list and "value" in tdp_list[0] else None
@@ -108,12 +112,32 @@ def get_processor_data(titles, batch_size):
             threads = int(threads_list[0]) if threads_list else None
             # Join all market segments as a single string, or None if empty
             market_segment = "; ".join(str(seg) for seg in market_segment_list) if market_segment_list else None
+            
+            # Process
+            if process_list and "value" in process_list[0] and "unit" in process_list[0]:
+                if process_list[0]["unit"] == EXPECTED_PROCESS_UNIT:
+                    process = process_list[0]["value"]
+                else:
+                    print(f"Warning: Unexpected unit for process: {process_list[0]['unit']}")
+                    process = None
+            else:
+                process = None
+
+            # Die area
+            if die_area_list and "value" in die_area_list[0] and "unit" in die_area_list[0]:
+                if die_area_list[0]["unit"] == EXPECTED_DIE_AREA_UNIT:
+                    die_area = die_area_list[0]["value"]
+                else:
+                    print(f"Warning: Unexpected unit for die area: {die_area_list[0]['unit']}")
+                    die_area = None
+            else:
+                die_area = None
 
             if tdp and cores:
                 launch_fmt = datetime.fromtimestamp(int(launch_date), tz=timezone.utc).strftime('%Y-%m-%d') if launch_date else ""
                 display = data.get("displaytitle", title)
                 source = data.get("fullurl", None)
-                results.append((display, launch_fmt, source, market_segment, tdp, cores, threads))
+                results.append((display, launch_fmt, source, market_segment, tdp, cores, threads, process, die_area))
 
 
         wait = round(random.uniform(*DELAY_RANGE), 2)
