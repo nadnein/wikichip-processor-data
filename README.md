@@ -4,10 +4,13 @@ This project fetches processor information from [WikiChip](https://en.wikichip.o
 
 - Processor name
 - Launch date
-- Thermal Design Power (TDP)
 - Source
+- Intended Usage
+- Thermal Design Power (TDP)
 - Core count
 - Thread count
+- Process
+- Die Area
 
 The results are saved into a structured CSV file for further analysis.
 
