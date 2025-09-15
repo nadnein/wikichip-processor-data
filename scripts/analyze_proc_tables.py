@@ -1,6 +1,8 @@
+import os
+import argparse
 import pandas as pd
-from .manipulate_proc_tables import normalize_processor_column
-from .io_utils import load_csv_from_file, save_df_to_csv
+from src.manipulate_proc_tables import normalize_processor_column
+from src.io_utils import load_csv_from_file, save_df_to_csv
 
 
 def get_matching_processors(df1, df2, name_col="name", tdp_col="tdp (W)", cores_col="cores", label1="wikichip", label2="external"):
@@ -95,9 +97,14 @@ def find_duplicate_rows(df, subset=None, print_results=True):
     return duplicates
 
 
-def run():
-    df1 = load_csv_from_file("data/CPU_TDP_wikichip.csv")
-    df2 = load_csv_from_file("data/CPU_TDP.csv")
+def run(input_file1, input_file2, output_dir):
+    # Ensure the output directory exists
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+        print(f"✅ Created output directory: {output_dir}")
+
+    df1 = load_csv_from_file(input_file1)
+    df2 = load_csv_from_file(input_file2)
 
     if df1 is None or df2 is None:
         print("❌ Missing one or both input files.")
@@ -108,20 +115,30 @@ def run():
     if matching_names.empty:
         print("✅ No matching processor names found.")
     else:
-        print(f"Found {len(matching_names)} matching processor names. Saving to data/analysis_results/matching_processor_names.csv")
-        matching_names.to_csv("data/analysis_results/matching_processor_names.csv", index=False)
+        output_file = f"{output_dir}/matching_processor_names.csv"
+        print(f"Found {len(matching_names)} matching processor names. Saving to {output_file}")
+        matching_names.to_csv(output_file, index=False)
 
         # Filter for rows where TDP or Cores differ
         diffs = filter_significant_diffs(matching_names)
-        print(f"Found {len(diffs)} processors with TDP or core count differences > 0.5. Saving to data/analysis_results/diff_cores_or_tdp.csv")
-        save_df_to_csv(diffs, "data/analysis_results/diff_cores_or_tdp.csv")
+        diff_file = f"{output_dir}/diff_cores_or_tdp.csv"
+        print(f"Found {len(diffs)} processors with TDP or core count differences > 0.5. Saving to {diff_file}")
+        save_df_to_csv(diffs, diff_file)
 
     # Get unmatched processors
     unmatched_df1, unmatched_df2 = get_unmatched_processors(df1, df2)
-    # Save processors found in CPU_TDP_wikichip.csv but not in CPU_TDP.csv
-    save_df_to_csv(unmatched_df1, "data/analysis_results/unmatched_CPU_TDP_wikichip.csv")
-    # Save processors found in CPU_TDP but not in CPU_TDP_wikichip.csv
-    save_df_to_csv(unmatched_df2, "data/analysis_results/unmatched_CPU_TDP.csv")
+    unmatched_file1 = f"{output_dir}/unmatched_{input_file1.split('/')[-1]}"
+    unmatched_file2 = f"{output_dir}/unmatched_{input_file2.split('/')[-1]}"
+    save_df_to_csv(unmatched_df1, unmatched_file1)
+    save_df_to_csv(unmatched_df2, unmatched_file2)
 
 if __name__ == "__main__":
-    run()
+    parser = argparse.ArgumentParser(description="Compare two processor tables.")
+    parser.add_argument("input_file1", type=str, help="Path to the first input CSV file.")
+    parser.add_argument("input_file2", type=str, help="Path to the second input CSV file.")
+    parser.add_argument("--output-dir", type=str, default="data/analysis_results", help="Directory to save the output files.")
+    args = parser.parse_args()
+
+    run(args.input_file1, args.input_file2, args.output_dir)
+
+    # Example usage: python -m scripts.analyze_proc_tables data/CPU_TDP_wikichip.csv data/CPU_TDP.csv --output-dir data/analysis_results

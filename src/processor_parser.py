@@ -45,7 +45,8 @@ def get_all_page_titles():
             break
 
         time.sleep(1)
-
+    
+    print(f"✅ Total titles retrieved: {len(titles)}")
     return titles
 
 

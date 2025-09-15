@@ -1,0 +1,891 @@
+normalized_name,name_wikichip,name_external,tdp (W)_wikichip,tdp (W)_external,TDP_differs,cores_wikichip,cores_external,Cores_differs
+amd athlon 200ge,amd athlon 200ge,AMD Athlon™ 200GE,35.0,35.0,False,2,2,False
+amd athlon 220ge,amd athlon 220ge,AMD Athlon™ 220GE,35.0,35.0,False,2,2,False
+amd athlon 240ge,amd athlon 240ge,AMD Athlon™ 240GE,35.0,35.0,False,2,2,False
+amd athlon 3000g,amd athlon 3000g,AMD Athlon™ 3000G,35.0,35.0,False,2,2,False
+amd athlon 300u,amd athlon 300u,AMD Athlon™ 300U,15.0,15.0,False,2,2,False
+amd athlon gold 3150u,amd athlon gold 3150u,AMD Athlon™ Gold 3150U,15.0,15.0,False,2,2,False
+amd athlon pro 200ge,amd athlon pro 200ge,AMD Athlon™ PRO 200GE,35.0,35.0,False,2,2,False
+amd athlon pro 300ge,amd athlon pro 300ge,AMD Athlon™ PRO 300GE,35.0,35.0,False,2,2,False
+amd athlon silver 3050u,amd athlon silver 3050u,AMD Athlon™ Silver 3050U,15.0,15.0,False,2,2,False
+intel atom c3308,intel atom c3308,Intel Atom® Processor C3308,9.5,9.5,False,2,2,False
+intel atom c3338,intel atom c3338,Intel Atom® Processor C3338,9.0,8.5,True,2,2,False
+intel atom c3508,intel atom c3508,Intel Atom® Processor C3508,11.25,11.5,True,4,4,False
+intel atom c3538,intel atom c3538,Intel Atom® Processor C3538,15.0,15.0,False,4,4,False
+intel atom c3558,intel atom c3558,Intel Atom® Processor C3558,16.0,16.0,False,4,4,False
+intel atom c3708,intel atom c3708,Intel Atom® Processor C3708,17.0,17.0,False,8,8,False
+intel atom c3750,intel atom c3750,Intel Atom® Processor C3750,21.0,21.0,False,8,8,False
+intel atom c3758,intel atom c3758,Intel Atom® Processor C3758,25.0,25.0,False,8,8,False
+intel atom c3808,intel atom c3808,Intel Atom® Processor C3808,25.0,25.0,False,12,12,False
+intel atom c3830,intel atom c3830,Intel Atom® Processor C3830,21.0,21.5,True,12,12,False
+intel atom c3850,intel atom c3850,Intel Atom® Processor C3850,25.0,25.0,False,12,12,False
+intel atom c3858,intel atom c3858,Intel Atom® Processor C3858,25.0,25.0,False,12,12,False
+intel atom c3950,intel atom c3950,Intel Atom® Processor C3950,24.0,24.0,False,16,16,False
+intel atom c3955,intel atom c3955,Intel Atom® Processor C3955,32.0,32.0,False,16,16,False
+intel atom c3958,intel atom c3958,Intel Atom® Processor C3958,31.0,31.0,False,16,16,False
+intel atom x5-e3930,intel atom x5-e3930,Intel Atom® x5-E3930 Processor,6.5,6.5,False,2,2,False
+intel atom x5-e3940,intel atom x5-e3940,Intel Atom® x5-E3940 Processor,9.5,9.5,False,4,4,False
+intel atom x5-e8000,intel atom x5-e8000,Intel Atom® x5-E8000 Processor,5.0,5.0,False,4,4,False
+intel atom x7-e3950,intel atom x7-e3950,Intel Atom® x7-E3950 Processor,12.0,12.0,False,4,4,False
+intel celeron 1007u,intel celeron 1007u,Intel® Celeron® Processor 1007U,17.0,17.0,False,2,2,False
+intel celeron 3755u,intel celeron 3755u,Intel® Celeron® Processor 3755U,15.0,15.0,False,2,2,False
+intel celeron 3855u,intel celeron 3855u,Intel® Celeron® Processor 3855U,15.0,15.0,False,2,2,False
+intel celeron 3865u,intel celeron 3865u,Intel® Celeron® Processor 3865U,15.0,15.0,False,2,2,False
+intel celeron 3955u,intel celeron 3955u,Intel® Celeron® Processor 3955U,15.0,15.0,False,2,2,False
+intel celeron 3965u,intel celeron 3965u,Intel® Celeron® Processor 3965U,15.0,15.0,False,2,2,False
+intel celeron 3965y,intel celeron 3965y,Intel® Celeron® Processor 3965Y,6.0,6.0,False,2,2,False
+intel celeron 4205u,intel celeron 4205u,Intel® Celeron® Processor 4205U,15.0,15.0,False,2,2,False
+intel celeron 4305u,intel celeron 4305u,Intel® Celeron® Processor 4305U,15.0,15.0,False,2,2,False
+intel celeron g3900,intel celeron g3900,Intel® Celeron® Processor G3900,51.0,51.0,False,2,2,False
+intel celeron g3900e,intel celeron g3900e,Intel® Celeron® Processor G3900E,35.0,35.0,False,2,2,False
+intel celeron g3900t,intel celeron g3900t,Intel® Celeron® Processor G3900T,35.0,35.0,False,2,2,False
+intel celeron g3900te,intel celeron g3900te,Intel® Celeron® Processor G3900TE,35.0,35.0,False,2,2,False
+intel celeron g3902e,intel celeron g3902e,Intel® Celeron® Processor G3902E,25.0,25.0,False,2,2,False
+intel celeron g3920,intel celeron g3920,Intel® Celeron® Processor G3920,51.0,51.0,False,2,2,False
+intel celeron g3930,intel celeron g3930,Intel® Celeron® Processor G3930,51.0,51.0,False,2,2,False
+intel celeron g3930e,intel celeron g3930e,Intel® Celeron® Processor G3930E,54.0,54.0,False,2,2,False
+intel celeron g3930t,intel celeron g3930t,Intel® Celeron® Processor G3930T,35.0,35.0,False,2,2,False
+intel celeron g3930te,intel celeron g3930te,Intel® Celeron® Processor G3930TE,35.0,35.0,False,2,2,False
+intel celeron g3950,intel celeron g3950,Intel® Celeron® Processor G3950,51.0,51.0,False,2,2,False
+intel celeron g4900,intel celeron g4900,Intel® Celeron® G4900 Processor,54.0,54.0,False,2,2,False
+intel celeron g4900t,intel celeron g4900t,Intel® Celeron® G4900T Processor,35.0,35.0,False,2,2,False
+intel celeron g4920,intel celeron g4920,Intel® Celeron® G4920 Processor,54.0,54.0,False,2,2,False
+intel celeron g4930,intel celeron g4930,Intel® Celeron® Processor G4930,54.0,54.0,False,2,2,False
+intel celeron g4930t,intel celeron g4930t,Intel® Celeron® Processor G4930T,35.0,35.0,False,2,2,False
+intel celeron g4950,intel celeron g4950,Intel® Celeron® Processor G4950,54.0,54.0,False,2,2,False
+intel celeron j3060,intel celeron j3060,Intel® Celeron® Processor J3060,6.0,6.0,False,2,2,False
+intel celeron j3160,intel celeron j3160,Intel® Celeron® Processor J3160,6.0,6.0,False,4,4,False
+intel celeron j3355,intel celeron j3355,Intel® Celeron® Processor J3355,10.0,10.0,False,2,2,False
+intel celeron j3455,intel celeron j3455,Intel® Celeron® Processor J3455,10.0,10.0,False,4,4,False
+intel celeron j4005,intel celeron j4005,Intel® Celeron® J4005 Processor,10.0,10.0,False,2,2,False
+intel celeron j4105,intel celeron j4105,Intel® Celeron® J4105 Processor,10.0,10.0,False,4,4,False
+intel celeron n3000,intel celeron n3000,Intel® Celeron® Processor N3000,4.0,4.0,False,2,2,False
+intel celeron n3010,intel celeron n3010,Intel® Celeron® Processor N3010,4.0,4.0,False,2,2,False
+intel celeron n3050,intel celeron n3050,Intel® Celeron® Processor N3050,6.0,6.0,False,2,2,False
+intel celeron n3060,intel celeron n3060,Intel® Celeron® Processor N3060,6.0,6.0,False,2,2,False
+intel celeron n3150,intel celeron n3150,Intel® Celeron® Processor N3150,6.0,6.0,False,4,4,False
+intel celeron n3160,intel celeron n3160,Intel® Celeron® Processor N3160,4.0,6.0,True,4,4,False
+intel celeron n3350,intel celeron n3350,Intel® Celeron® Processor N3350,6.0,6.0,False,2,2,False
+intel celeron n3450,intel celeron n3450,Intel® Celeron® Processor N3450,6.0,6.0,False,4,4,False
+intel celeron n4000,intel celeron n4000,Intel® Celeron® Processor N4000,6.0,6.0,False,2,2,False
+intel celeron n4100,intel celeron n4100,Intel® Celeron® Processor N4100,6.0,6.0,False,4,4,False
+intel core i3-1005g1,intel core i3-1005g1,Intel® Core™ i3-1005G1 Processor,15.0,15.0,False,2,2,False
+intel core i3-6006u,intel core i3-6006u,Intel® Core™ i3-6006U Processor,15.0,15.0,False,2,2,False
+intel core i3-6098p,intel core i3-6098p,Intel® Core™ i3-6098P Processor,54.0,54.0,False,2,2,False
+intel core i3-6100,intel core i3-6100,Intel® Core™ i3-6100 Processor,51.0,51.0,False,2,2,False
+intel core i3-6100e,intel core i3-6100e,Intel® Core™ i3-6100E Processor,35.0,35.0,False,2,2,False
+intel core i3-6100h,intel core i3-6100h,Intel® Core™ i3-6100H Processor,35.0,35.0,False,2,2,False
+intel core i3-6100t,intel core i3-6100t,Intel® Core™ i3-6100T Processor,35.0,35.0,False,2,2,False
+intel core i3-6100te,intel core i3-6100te,Intel® Core™ i3-6100TE Processor,35.0,35.0,False,2,2,False
+intel core i3-6100u,intel core i3-6100u,Intel® Core™ i3-6100U Processor,15.0,15.0,False,2,2,False
+intel core i3-6102e,intel core i3-6102e,Intel® Core™ i3-6102E Processor,25.0,25.0,False,2,2,False
+intel core i3-6157u,intel core i3-6157u,Intel® Core™ i3-6157U Processor,28.0,28.0,False,2,2,False
+intel core i3-6167u,intel core i3-6167u,Intel® Core™ i3-6167U Processor,28.0,28.0,False,2,2,False
+intel core i3-6300,intel core i3-6300,Intel® Core™ i3-6300 Processor,51.0,51.0,False,2,2,False
+intel core i3-6300t,intel core i3-6300t,Intel® Core™ i3-6300T Processor,35.0,35.0,False,2,2,False
+intel core i3-6320,intel core i3-6320,Intel® Core™ i3-6320 Processor,51.0,51.0,False,2,2,False
+intel core i3-7020u,intel core i3-7020u,Intel® Core™ i3-7020U Processor,15.0,15.0,False,2,2,False
+intel core i3-7100,intel core i3-7100,Intel® Core™ i3-7100 Processor,51.0,51.0,False,2,2,False
+intel core i3-7100e,intel core i3-7100e,Intel® Core™ i3-7100E Processor,35.0,35.0,False,2,2,False
+intel core i3-7100h,intel core i3-7100h,Intel® Core™ i3-7100H Processor,35.0,35.0,False,2,2,False
+intel core i3-7100t,intel core i3-7100t,Intel® Core™ i3-7100T Processor,35.0,35.0,False,2,2,False
+intel core i3-7100u,intel core i3-7100u,Intel® Core™ i3-7100U Processor,15.0,15.0,False,2,2,False
+intel core i3-7101e,intel core i3-7101e,Intel® Core™ i3-7101E Processor,54.0,54.0,False,2,2,False
+intel core i3-7101te,intel core i3-7101te,Intel® Core™ i3-7101TE Processor,35.0,35.0,False,2,2,False
+intel core i3-7102e,intel core i3-7102e,Intel® Core™ i3-7102E Processor,25.0,25.0,False,2,2,False
+intel core i3-7130u,intel core i3-7130u,Intel® Core™ i3-7130U Processor,15.0,15.0,False,2,2,False
+intel core i3-7167u,intel core i3-7167u,Intel® Core™ i3-7167U Processor,28.0,28.0,False,2,2,False
+intel core i3-7300,intel core i3-7300,Intel® Core™ i3-7300 Processor,51.0,51.0,False,2,2,False
+intel core i3-7300t,intel core i3-7300t,Intel® Core™ i3-7300T Processor,35.0,35.0,False,2,2,False
+intel core i3-7320,intel core i3-7320,Intel® Core™ i3-7320 Processor,51.0,51.0,False,2,2,False
+intel core i3-7350k,intel core i3-7350k,Intel® Core™ i3-7350K Processor,60.0,60.0,False,2,2,False
+intel core i3-8100,intel core i3-8100,Intel® Core™ i3-8100 Processor,65.0,65.0,False,4,4,False
+intel core i3-8100h,intel core i3-8100h,Intel® Core™ i3-8100H Processor,45.0,45.0,False,4,4,False
+intel core i3-8100t,intel core i3-8100t,Intel® Core™ i3-8100T Processor,35.0,35.0,False,4,4,False
+intel core i3-8109u,intel core i3-8109u,Intel® Core™ i3-8109U Processor,28.0,28.0,False,2,2,False
+intel core i3-8130u,intel core i3-8130u,Intel® Core™ i3-8130U Processor,15.0,15.0,False,2,2,False
+intel core i3-8145u,intel core i3-8145u,Intel® Core™ i3-8145U Processor,15.0,15.0,False,2,2,False
+intel core i3-8300,intel core i3-8300,Intel® Core™ i3-8300 Processor,62.0,62.0,False,4,4,False
+intel core i3-8300t,intel core i3-8300t,Intel® Core™ i3-8300T Processor,35.0,35.0,False,4,4,False
+intel core i3-8350k,intel core i3-8350k,Intel® Core™ i3-8350K Processor,91.0,91.0,False,4,4,False
+intel core i3-9100,intel core i3-9100,Intel® Core™ i3-9100 Processor,65.0,65.0,False,4,4,False
+intel core i3-9100f,intel core i3-9100f,Intel® Core™ i3-9100F Processor,65.0,65.0,False,4,4,False
+intel core i3-9100t,intel core i3-9100t,Intel® Core™ i3-9100T Processor,35.0,35.0,False,4,4,False
+intel core i3-9300,intel core i3-9300,Intel® Core™ i3-9300 Processor,62.0,62.0,False,4,4,False
+intel core i3-9300t,intel core i3-9300t,Intel® Core™ i3-9300T Processor,35.0,35.0,False,4,4,False
+intel core i3-9350kf,intel core i3-9350kf,Intel® Core™ i3-9350KF Processor,91.0,91.0,False,4,4,False
+intel core i5-1035g1,intel core i5-1035g1,Intel® Core™ i5-1035G1 Processor,15.0,15.0,False,4,4,False
+intel core i5-1035g4,intel core i5-1035g4,Intel® Core™ i5-1035G4 Processor,15.0,15.0,False,4,4,False
+intel core i5-1035g7,intel core i5-1035g7,Intel® Core™ i5-1035G7 Processor,15.0,15.0,False,4,4,False
+intel core i5-12600k,intel core i5-12600k,Intel® Core™ i5-12600K Processor,125.0,125.0,False,10,10,False
+intel core i5-12600kf,intel core i5-12600kf,Intel® Core™ i5-12600KF Processor,125.0,125.0,False,10,10,False
+intel core i5-13600k,intel core i5-13600k,Intel® Core™ i5-13600K Processor,125.0,125.0,False,14,14,False
+intel core i5-13600kf,intel core i5-13600kf,Intel® Core™ i5-13600KF Processor,125.0,125.0,False,14,14,False
+intel core i5-4570r,intel core i5-4570r,Intel® Core™ i5-4570R Processor,65.0,65.0,False,4,4,False
+intel core i5-4670r,intel core i5-4670r,Intel® Core™ i5-4670R Processor,65.0,65.0,False,4,4,False
+intel core i5-5350h,intel core i5-5350h,Intel® Core™ i5-5350H Processor,47.0,47.0,False,2,2,False
+intel core i5-5575r,intel core i5-5575r,Intel® Core™ i5-5575R Processor,65.0,65.0,False,4,4,False
+intel core i5-5675c,intel core i5-5675c,Intel® Core™ i5-5675C Processor,65.0,65.0,False,4,4,False
+intel core i5-5675r,intel core i5-5675r,Intel® Core™ i5-5675R Processor,65.0,65.0,False,4,4,False
+intel core i5-6200u,intel core i5-6200u,Intel® Core™ i5-6200U Processor,15.0,15.0,False,2,2,False
+intel core i5-6260u,intel core i5-6260u,Intel® Core™ i5-6260U Processor,15.0,15.0,False,2,2,False
+intel core i5-6267u,intel core i5-6267u,Intel® Core™ i5-6267U Processor,28.0,28.0,False,2,2,False
+intel core i5-6287u,intel core i5-6287u,Intel® Core™ i5-6287U Processor,28.0,28.0,False,2,2,False
+intel core i5-6300hq,intel core i5-6300hq,Intel® Core™ i5-6300HQ Processor,45.0,45.0,False,4,4,False
+intel core i5-6300u,intel core i5-6300u,Intel® Core™ i5-6300U Processor,15.0,15.0,False,2,2,False
+intel core i5-6350hq,intel core i5-6350hq,Intel® Core™ i5-6350HQ Processor,45.0,45.0,False,4,4,False
+intel core i5-6360u,intel core i5-6360u,Intel® Core™ i5-6360U Processor,15.0,15.0,False,2,2,False
+intel core i5-6400,intel core i5-6400,Intel® Core™ i5-6400 Processor,65.0,65.0,False,4,4,False
+intel core i5-6400t,intel core i5-6400t,Intel® Core™ i5-6400T Processor,35.0,35.0,False,4,4,False
+intel core i5-6402p,intel core i5-6402p,Intel® Core™ i5-6402P Processor,65.0,65.0,False,4,4,False
+intel core i5-6440eq,intel core i5-6440eq,Intel® Core™ i5-6440EQ Processor,45.0,45.0,False,4,4,False
+intel core i5-6440hq,intel core i5-6440hq,Intel® Core™ i5-6440HQ Processor,45.0,45.0,False,4,4,False
+intel core i5-6442eq,intel core i5-6442eq,Intel® Core™ i5-6442EQ Processor,25.0,25.0,False,4,4,False
+intel core i5-6500,intel core i5-6500,Intel® Core™ i5-6500 Processor,65.0,65.0,False,4,4,False
+intel core i5-6500t,intel core i5-6500t,Intel® Core™ i5-6500T Processor,35.0,35.0,False,4,4,False
+intel core i5-6500te,intel core i5-6500te,Intel® Core™ i5-6500TE Processor,35.0,35.0,False,4,4,False
+intel core i5-6585r,intel core i5-6585r,Intel® Core™ i5-6585R Processor,65.0,65.0,False,4,4,False
+intel core i5-6600,intel core i5-6600,Intel® Core™ i5-6600 Processor,65.0,65.0,False,4,4,False
+intel core i5-6600k,intel core i5-6600k,Intel® Core™ i5-6600K Processor,91.0,91.0,False,4,4,False
+intel core i5-6600t,intel core i5-6600t,Intel® Core™ i5-6600T Processor,35.0,35.0,False,4,4,False
+intel core i5-6685r,intel core i5-6685r,Intel® Core™ i5-6685R Processor,65.0,65.0,False,4,4,False
+intel core i5-7200u,intel core i5-7200u,Intel® Core™ i5-7200U Processor,15.0,15.0,False,2,2,False
+intel core i5-7260u,intel core i5-7260u,Intel® Core™ i5-7260U Processor,15.0,15.0,False,2,2,False
+intel core i5-7267u,intel core i5-7267u,Intel® Core™ i5-7267U Processor,28.0,28.0,False,2,2,False
+intel core i5-7287u,intel core i5-7287u,Intel® Core™ i5-7287U Processor,28.0,28.0,False,2,2,False
+intel core i5-7300hq,intel core i5-7300hq,Intel® Core™ i5-7300HQ Processor,45.0,45.0,False,4,4,False
+intel core i5-7300u,intel core i5-7300u,Intel® Core™ i5-7300U Processor,15.0,15.0,False,2,2,False
+intel core i5-7360u,intel core i5-7360u,Intel® Core™ i5-7360U Processor,15.0,15.0,False,2,2,False
+intel core i5-7400,intel core i5-7400,Intel® Core™ i5-7400 Processor,65.0,65.0,False,4,4,False
+intel core i5-7400t,intel core i5-7400t,Intel® Core™ i5-7400T Processor,35.0,35.0,False,4,4,False
+intel core i5-7440eq,intel core i5-7440eq,Intel® Core™ i5-7440EQ Processor,45.0,45.0,False,4,4,False
+intel core i5-7440hq,intel core i5-7440hq,Intel® Core™ i5-7440HQ Processor,45.0,45.0,False,4,4,False
+intel core i5-7442eq,intel core i5-7442eq,Intel® Core™ i5-7442EQ Processor,25.0,25.0,False,4,4,False
+intel core i5-7500,intel core i5-7500,Intel® Core™ i5-7500 Processor,65.0,65.0,False,4,4,False
+intel core i5-7500t,intel core i5-7500t,Intel® Core™ i5-7500T Processor,35.0,35.0,False,4,4,False
+intel core i5-7600,intel core i5-7600,Intel® Core™ i5-7600 Processor,65.0,65.0,False,4,4,False
+intel core i5-7600k,intel core i5-7600k,Intel® Core™ i5-7600K Processor,91.0,91.0,False,4,4,False
+intel core i5-7600t,intel core i5-7600t,Intel® Core™ i5-7600T Processor,35.0,35.0,False,4,4,False
+intel core i5-7y54,intel core i5-7y54,Intel® Core™ i5-7Y54 Processor,4.5,4.5,False,2,2,False
+intel core i5-7y57,intel core i5-7y57,Intel® Core™ i5-7Y57 Processor,4.5,4.5,False,2,2,False
+intel core i5-8200y,intel core i5-8200y,Intel® Core™ i5-8200Y Processor,5.0,5.0,False,2,2,False
+intel core i5-8210y,intel core i5-8210y,Intel® Core™ i5-8210Y Processor,7.0,7.0,False,2,2,False
+intel core i5-8250u,intel core i5-8250u,Intel® Core™ i5-8250U Processor,15.0,15.0,False,4,4,False
+intel core i5-8259u,intel core i5-8259u,Intel® Core™ i5-8259U Processor,28.0,28.0,False,4,4,False
+intel core i5-8265u,intel core i5-8265u,Intel® Core™ i5-8265U Processor,15.0,15.0,False,4,4,False
+intel core i5-8269u,intel core i5-8269u,Intel® Core™ i5-8269U Processor,28.0,28.0,False,4,4,False
+intel core i5-8300h,intel core i5-8300h,Intel® Core™ i5-8300H Processor,45.0,45.0,False,4,4,False
+intel core i5-8350u,intel core i5-8350u,Intel® Core™ i5-8350U Processor,15.0,15.0,False,4,4,False
+intel core i5-8365u,intel core i5-8365u,Intel® Core™ i5-8365U Processor,15.0,15.0,False,4,4,False
+intel core i5-8400,intel core i5-8400,Intel® Core™ i5-8400 Processor,65.0,65.0,False,6,6,False
+intel core i5-8400b,intel core i5-8400b,Intel® Core™ i5-8400B Processor,65.0,65.0,False,6,6,False
+intel core i5-8400h,intel core i5-8400h,Intel® Core™ i5-8400H Processor,45.0,45.0,False,4,4,False
+intel core i5-8400t,intel core i5-8400t,Intel® Core™ i5-8400T Processor,35.0,35.0,False,6,6,False
+intel core i5-8500,intel core i5-8500,Intel® Core™ i5-8500 Processor,65.0,65.0,False,6,6,False
+intel core i5-8500b,intel core i5-8500b,Intel® Core™ i5-8500B Processor,65.0,65.0,False,6,6,False
+intel core i5-8500t,intel core i5-8500t,Intel® Core™ i5-8500T Processor,35.0,35.0,False,6,6,False
+intel core i5-8600,intel core i5-8600,Intel® Core™ i5-8600 Processor,65.0,65.0,False,6,6,False
+intel core i5-8600k,intel core i5-8600k,Intel® Core™ i5-8600K Processor,95.0,95.0,False,6,6,False
+intel core i5-8600t,intel core i5-8600t,Intel® Core™ i5-8600T Processor,35.0,35.0,False,6,6,False
+intel core i5-9300h,intel core i5-9300h,Intel® Core™ i5-9300H Processor,45.0,45.0,False,4,4,False
+intel core i5-9400,intel core i5-9400,Intel® Core™ i5-9400 Processor,65.0,65.0,False,6,6,False
+intel core i5-9400f,intel core i5-9400f,Intel® Core™ i5-9400F Processor,65.0,65.0,False,6,6,False
+intel core i5-9400h,intel core i5-9400h,Intel® Core™ i5-9400H Processor,45.0,45.0,False,4,4,False
+intel core i5-9400t,intel core i5-9400t,Intel® Core™ i5-9400T Processor,35.0,35.0,False,6,6,False
+intel core i5-9500,intel core i5-9500,Intel® Core™ i5-9500 Processor,65.0,65.0,False,6,6,False
+intel core i5-9500f,intel core i5-9500f,Intel® Core™ i5-9500F Processor,65.0,65.0,False,6,6,False
+intel core i5-9500t,intel core i5-9500t,Intel® Core™ i5-9500T Processor,35.0,35.0,False,6,6,False
+intel core i5-9600,intel core i5-9600,Intel® Core™ i5-9600 Processor,65.0,65.0,False,6,6,False
+intel core i5-9600k,intel core i5-9600k,Intel® Core™ i5-9600K Processor,95.0,95.0,False,6,6,False
+intel core i5-9600kf,intel core i5-9600kf,Intel® Core™ i5-9600KF Processor,95.0,95.0,False,6,6,False
+intel core i7-10510u,intel core i7-10510u,Intel® Core™ i7-10510U Processor,15.0,15.0,False,4,4,False
+intel core i7-1065g7,intel core i7-1065g7,Intel® Core™ i7-1065G7 Processor,15.0,15.0,False,4,4,False
+intel core i7-12700k,intel core i7-12700k,Intel® Core™ i7-12700K Processor,125.0,125.0,False,12,12,False
+intel core i7-12700kf,intel core i7-12700kf,Intel® Core™ i7-12700KF Processor,125.0,125.0,False,12,12,False
+intel core i7-13700k,intel core i7-13700k,Intel® Core™ i7-13700K Processor,125.0,125.0,False,16,16,False
+intel core i7-13700kf,intel core i7-13700kf,Intel® Core™ i7-13700KF Processor,125.0,125.0,False,16,16,False
+intel core i7-3920xm extreme edition,intel core i7-3920xm extreme edition,Intel® Core™ i7-3920XM Processor Extreme Edition,55.0,55.0,False,4,4,False
+intel core i7-3940xm extreme edition,intel core i7-3940xm extreme edition,Intel® Core™ i7-3940XM Processor Extreme Edition,55.0,55.0,False,4,4,False
+intel core i7-3960x extreme edition,intel core i7-3960x extreme edition,Intel® Core™ i7-3960X Processor Extreme Edition,130.0,130.0,False,6,6,False
+intel core i7-3970x extreme edition,intel core i7-3970x extreme edition,Intel® Core™ i7-3970X Processor Extreme Edition,150.0,150.0,False,6,6,False
+intel core i7-4750hq,intel core i7-4750hq,Intel® Core™ i7-4750HQ Processor,47.0,47.0,False,4,4,False
+intel core i7-4760hq,intel core i7-4760hq,Intel® Core™ i7-4760HQ Processor,47.0,47.0,False,4,4,False
+intel core i7-4770hq,intel core i7-4770hq,Intel® Core™ i7-4770HQ Processor,47.0,47.0,False,4,4,False
+intel core i7-4770r,intel core i7-4770r,Intel® Core™ i7-4770R Processor,47.0,65.0,True,4,4,False
+intel core i7-4850hq,intel core i7-4850hq,Intel® Core™ i7-4850HQ Processor,47.0,47.0,False,4,4,False
+intel core i7-4860hq,intel core i7-4860hq,Intel® Core™ i7-4860HQ Processor,47.0,47.0,False,4,4,False
+intel core i7-4870hq,intel core i7-4870hq,Intel® Core™ i7-4870HQ Processor,47.0,47.0,False,4,4,False
+intel core i7-4930mx extreme edition,intel core i7-4930mx extreme edition,Intel® Core™ i7-4930MX Processor Extreme Edition,57.0,57.0,False,4,4,False
+intel core i7-4940mx extreme edition,intel core i7-4940mx extreme edition,Intel® Core™ i7-4940MX Processor Extreme Edition,57.0,57.0,False,4,4,False
+intel core i7-4950hq,intel core i7-4950hq,Intel® Core™ i7-4950HQ Processor,47.0,47.0,False,4,4,False
+intel core i7-4960hq,intel core i7-4960hq,Intel® Core™ i7-4960HQ Processor,47.0,47.0,False,4,4,False
+intel core i7-4960x extreme edition,intel core i7-4960x extreme edition,Intel® Core™ i7-4960X Processor Extreme Edition,130.0,130.0,False,6,6,False
+intel core i7-4980hq,intel core i7-4980hq,Intel® Core™ i7-4980HQ Processor,47.0,47.0,False,4,4,False
+intel core i7-5750hq,intel core i7-5750hq,Intel® Core™ i7-5750HQ Processor,47.0,47.0,False,4,4,False
+intel core i7-5775c,intel core i7-5775c,Intel® Core™ i7-5775C Processor,65.0,65.0,False,4,4,False
+intel core i7-5775r,intel core i7-5775r,Intel® Core™ i7-5775R Processor,65.0,65.0,False,4,4,False
+intel core i7-5850eq,intel core i7-5850eq,Intel® Core™ i7-5850EQ Processor,47.0,47.0,False,4,4,False
+intel core i7-5850hq,intel core i7-5850hq,Intel® Core™ i7-5850HQ Processor,47.0,47.0,False,4,4,False
+intel core i7-5950hq,intel core i7-5950hq,Intel® Core™ i7-5950HQ Processor,47.0,47.0,False,4,4,False
+intel core i7-5960x extreme edition,intel core i7-5960x extreme edition,Intel® Core™ i7-5960X Processor Extreme Edition,140.0,140.0,False,8,8,False
+intel core i7-6500u,intel core i7-6500u,Intel® Core™ i7-6500U Processor,15.0,15.0,False,2,2,False
+intel core i7-6560u,intel core i7-6560u,Intel® Core™ i7-6560U Processor,15.0,15.0,False,2,2,False
+intel core i7-6567u,intel core i7-6567u,Intel® Core™ i7-6567U Processor,28.0,28.0,False,2,2,False
+intel core i7-6600u,intel core i7-6600u,Intel® Core™ i7-6600U Processor,15.0,15.0,False,2,2,False
+intel core i7-6650u,intel core i7-6650u,Intel® Core™ i7-6650U Processor,15.0,15.0,False,2,2,False
+intel core i7-6660u,intel core i7-6660u,Intel® Core™ i7-6660U Processor,15.0,15.0,False,2,2,False
+intel core i7-6700,intel core i7-6700,Intel® Core™ i7-6700 Processor,65.0,65.0,False,4,4,False
+intel core i7-6700hq,intel core i7-6700hq,Intel® Core™ i7-6700HQ Processor,45.0,45.0,False,4,4,False
+intel core i7-6700k,intel core i7-6700k,Intel® Core™ i7-6700K Processor,91.0,91.0,False,4,4,False
+intel core i7-6700t,intel core i7-6700t,Intel® Core™ i7-6700T Processor,35.0,35.0,False,4,4,False
+intel core i7-6700te,intel core i7-6700te,Intel® Core™ i7-6700TE Processor,35.0,35.0,False,4,4,False
+intel core i7-6770hq,intel core i7-6770hq,Intel® Core™ i7-6770HQ Processor,45.0,45.0,False,4,4,False
+intel core i7-6785r,intel core i7-6785r,Intel® Core™ i7-6785R Processor,65.0,65.0,False,4,4,False
+intel core i7-6820eq,intel core i7-6820eq,Intel® Core™ i7-6820EQ Processor,45.0,45.0,False,4,4,False
+intel core i7-6820hk,intel core i7-6820hk,Intel® Core™ i7-6820HK Processor,45.0,45.0,False,4,4,False
+intel core i7-6820hq,intel core i7-6820hq,Intel® Core™ i7-6820HQ Processor,45.0,45.0,False,4,4,False
+intel core i7-6822eq,intel core i7-6822eq,Intel® Core™ i7-6822EQ Processor,25.0,25.0,False,4,4,False
+intel core i7-6870hq,intel core i7-6870hq,Intel® Core™ i7-6870HQ Processor,45.0,45.0,False,4,4,False
+intel core i7-6920hq,intel core i7-6920hq,Intel® Core™ i7-6920HQ Processor,45.0,45.0,False,4,4,False
+intel core i7-6950x extreme edition,intel core i7-6950x extreme edition,Intel® Core™ i7-6950X Processor Extreme Edition,140.0,140.0,False,10,10,False
+intel core i7-6970hq,intel core i7-6970hq,Intel® Core™ i7-6970HQ Processor,45.0,45.0,False,4,4,False
+intel core i7-7500u,intel core i7-7500u,Intel® Core™ i7-7500U Processor,15.0,15.0,False,2,2,False
+intel core i7-7560u,intel core i7-7560u,Intel® Core™ i7-7560U Processor,15.0,15.0,False,2,2,False
+intel core i7-7567u,intel core i7-7567u,Intel® Core™ i7-7567U Processor,28.0,28.0,False,2,2,False
+intel core i7-7600u,intel core i7-7600u,Intel® Core™ i7-7600U Processor,15.0,15.0,False,2,2,False
+intel core i7-7660u,intel core i7-7660u,Intel® Core™ i7-7660U Processor,15.0,15.0,False,2,2,False
+intel core i7-7700,intel core i7-7700,Intel® Core™ i7-7700 Processor,65.0,65.0,False,4,4,False
+intel core i7-7700hq,intel core i7-7700hq,Intel® Core™ i7-7700HQ Processor,45.0,45.0,False,4,4,False
+intel core i7-7700k,intel core i7-7700k,Intel® Core™ i7-7700K Processor,91.0,91.0,False,4,4,False
+intel core i7-7700t,intel core i7-7700t,Intel® Core™ i7-7700T Processor,35.0,35.0,False,4,4,False
+intel core i7-7820eq,intel core i7-7820eq,Intel® Core™ i7-7820EQ Processor,45.0,45.0,False,4,4,False
+intel core i7-7820hk,intel core i7-7820hk,Intel® Core™ i7-7820HK Processor,45.0,45.0,False,4,4,False
+intel core i7-7820hq,intel core i7-7820hq,Intel® Core™ i7-7820HQ Processor,45.0,45.0,False,4,4,False
+intel core i7-7920hq,intel core i7-7920hq,Intel® Core™ i7-7920HQ Processor,45.0,45.0,False,4,4,False
+intel core i7-7y75,intel core i7-7y75,Intel® Core™ i7-7Y75 Processor,4.5,4.5,False,2,2,False
+intel core i7-8086k,intel core i7-8086k,Intel® Core™ i7-8086K Processor,95.0,95.0,False,6,6,False
+intel core i7-8500y,intel core i7-8500y,Intel® Core™ i7-8500Y Processor,5.0,5.0,False,2,2,False
+intel core i7-8550u,intel core i7-8550u,Intel® Core™ i7-8550U Processor,15.0,15.0,False,4,4,False
+intel core i7-8559u,intel core i7-8559u,Intel® Core™ i7-8559U Processor,28.0,28.0,False,4,4,False
+intel core i7-8565u,intel core i7-8565u,Intel® Core™ i7-8565U Processor,15.0,15.0,False,4,4,False
+intel core i7-8650u,intel core i7-8650u,Intel® Core™ i7-8650U Processor,15.0,15.0,False,4,4,False
+intel core i7-8665u,intel core i7-8665u,Intel® Core™ i7-8665U Processor,15.0,15.0,False,4,4,False
+intel core i7-8700,intel core i7-8700,Intel® Core™ i7-8700 Processor,65.0,65.0,False,6,6,False
+intel core i7-8700b,intel core i7-8700b,Intel® Core™ i7-8700B Processor,65.0,65.0,False,6,6,False
+intel core i7-8700k,intel core i7-8700k,Intel® Core™ i7-8700K Processor,95.0,95.0,False,6,6,False
+intel core i7-8700t,intel core i7-8700t,Intel® Core™ i7-8700T Processor,35.0,35.0,False,6,6,False
+intel core i7-8750h,intel core i7-8750h,Intel® Core™ i7-8750H Processor,45.0,45.0,False,6,6,False
+intel core i7-8850h,intel core i7-8850h,Intel® Core™ i7-8850H Processor,45.0,45.0,False,6,6,False
+intel core i7-9700,intel core i7-9700,Intel® Core™ i7-9700 Processor,65.0,65.0,False,8,8,False
+intel core i7-9700f,intel core i7-9700f,Intel® Core™ i7-9700F Processor,65.0,65.0,False,8,8,False
+intel core i7-9700k,intel core i7-9700k,Intel® Core™ i7-9700K Processor,95.0,95.0,False,8,8,False
+intel core i7-9700kf,intel core i7-9700kf,Intel® Core™ i7-9700KF Processor,95.0,95.0,False,8,8,False
+intel core i7-9700t,intel core i7-9700t,Intel® Core™ i7-9700T Processor,35.0,35.0,False,8,8,False
+intel core i7-9750h,intel core i7-9750h,Intel® Core™ i7-9750H Processor,45.0,45.0,False,6,6,False
+intel core i7-9850h,intel core i7-9850h,Intel® Core™ i7-9850H Processor,45.0,45.0,False,6,6,False
+intel core i9-12900k,intel core i9-12900k,Intel® Core™ i9-12900K Processor,125.0,125.0,False,16,16,False
+intel core i9-12900kf,intel core i9-12900kf,Intel® Core™ i9-12900KF Processor,125.0,125.0,False,16,16,False
+intel core i9-13900k,intel core i9-13900k,Intel® Core™ i9-13900K Processor,125.0,125.0,False,24,24,False
+intel core i9-13900kf,intel core i9-13900kf,Intel® Core™ i9-13900KF Processor,125.0,125.0,False,24,24,False
+intel core i9-8950hk,intel core i9-8950hk,Intel® Core™ i9-8950HK Processor,45.0,45.0,False,6,6,False
+intel core i9-9880h,intel core i9-9880h,Intel® Core™ i9-9880H Processor,45.0,45.0,False,8,8,False
+intel core i9-9900,intel core i9-9900,Intel® Core™ i9-9900 Processor,65.0,65.0,False,8,8,False
+intel core i9-9900k,intel core i9-9900k,Intel® Core™ i9-9900K Processor,95.0,95.0,False,8,8,False
+intel core i9-9900kf,intel core i9-9900kf,Intel® Core™ i9-9900KF Processor,95.0,95.0,False,8,8,False
+intel core i9-9900ks,intel core i9-9900ks,Intel® Core™ i9-9900KS Processor,127.0,127.0,False,8,8,False
+intel core i9-9900t,intel core i9-9900t,Intel® Core™ i9-9900T Processor,35.0,35.0,False,8,8,False
+intel core i9-9980hk,intel core i9-9980hk,Intel® Core™ i9-9980HK Processor,45.0,45.0,False,8,8,False
+intel core m3-6y30,intel core m3-6y30,Intel® Core™ m3-6Y30 Processor,4.5,4.5,False,2,2,False
+intel core m3-7y30,intel core m3-7y30,Intel® Core™ m3-7Y30 Processor,4.5,4.5,False,2,2,False
+intel core m3-7y32,intel core m3-7y32,Intel® Core™ m3-7Y32 Processor,4.5,4.5,False,2,2,False
+intel core m3-8100y,intel core m3-8100y,Intel® Core™ m3-8100Y Processor,5.0,5.0,False,2,2,False
+intel core m5-6y54,intel core m5-6y54,Intel® Core™ m5-6Y54 Processor,4.5,4.5,False,2,2,False
+intel core m5-6y57,intel core m5-6y57,Intel® Core™ m5-6Y57 Processor,4.5,4.5,False,2,2,False
+intel core m7-6y75,intel core m7-6y75,Intel® Core™ m7-6Y75 Processor,4.5,4.5,False,2,2,False
+amd epyc 7232p,amd epyc 7232p,AMD EPYC™ 7232P,120.0,120.0,False,8,8,False
+amd epyc 7251,amd epyc 7251,AMD EPYC™ 7251,120.0,120.0,False,8,8,False
+amd epyc 7252,amd epyc 7252,AMD EPYC™ 7252,120.0,120.0,False,8,8,False
+amd epyc 7261,amd epyc 7261,AMD EPYC™ 7261,155.0,155.0,False,8,8,False
+amd epyc 7262,amd epyc 7262,AMD EPYC™ 7262,155.0,155.0,False,8,8,False
+amd epyc 7272,amd epyc 7272,AMD EPYC™ 7272,120.0,120.0,False,12,12,False
+amd epyc 7281,amd epyc 7281,AMD EPYC™ 7281,155.0,155.0,False,16,16,False
+amd epyc 7282,amd epyc 7282,AMD EPYC™ 7282,120.0,120.0,False,16,16,False
+amd epyc 72f3,amd epyc 72f3,AMD EPYC™ 72F3,180.0,180.0,False,8,8,False
+amd epyc 7301,amd epyc 7301,AMD EPYC™ 7301,155.0,155.0,False,16,16,False
+amd epyc 7302,amd epyc 7302,AMD EPYC™ 7302,155.0,155.0,False,16,16,False
+amd epyc 7302p,amd epyc 7302p,AMD EPYC™ 7302P,155.0,155.0,False,16,16,False
+amd epyc 7313,amd epyc 7313,AMD EPYC™ 7313,155.0,155.0,False,16,16,False
+amd epyc 7313p,amd epyc 7313p,AMD EPYC™ 7313P,155.0,155.0,False,16,16,False
+amd epyc 7343,amd epyc 7343,AMD EPYC™ 7343,190.0,190.0,False,16,16,False
+amd epyc 7351,amd epyc 7351,AMD EPYC™ 7351,155.0,155.0,False,16,16,False
+amd epyc 7351p,amd epyc 7351p,AMD EPYC™ 7351P,155.0,155.0,False,16,16,False
+amd epyc 7352,amd epyc 7352,AMD EPYC™ 7352,155.0,155.0,False,24,24,False
+amd epyc 7371,amd epyc 7371,AMD EPYC™ 7371,200.0,200.0,False,16,16,False
+amd epyc 73f3,amd epyc 73f3,AMD EPYC™ 73F3,240.0,240.0,False,16,16,False
+amd epyc 7401,amd epyc 7401,AMD EPYC™ 7401,155.0,155.0,False,24,24,False
+amd epyc 7401p,amd epyc 7401p,AMD EPYC™ 7401P,155.0,155.0,False,24,24,False
+amd epyc 7402,amd epyc 7402,AMD EPYC™ 7402,180.0,180.0,False,24,24,False
+amd epyc 7402p,amd epyc 7402p,AMD EPYC™ 7402P,180.0,180.0,False,24,24,False
+amd epyc 7413,amd epyc 7413,AMD EPYC™ 7413,180.0,180.0,False,24,24,False
+amd epyc 7443,amd epyc 7443,AMD EPYC™ 7443,200.0,200.0,False,24,24,False
+amd epyc 7443p,amd epyc 7443p,AMD EPYC™ 7443P,200.0,200.0,False,24,24,False
+amd epyc 7451,amd epyc 7451,AMD EPYC™ 7451,180.0,180.0,False,24,24,False
+amd epyc 7452,amd epyc 7452,AMD EPYC™ 7452,155.0,155.0,False,32,32,False
+amd epyc 7453,amd epyc 7453,AMD EPYC™ 7453,225.0,225.0,False,28,28,False
+amd epyc 74f3,amd epyc 74f3,AMD EPYC™ 74F3,240.0,240.0,False,24,24,False
+amd epyc 7501,amd epyc 7501,AMD EPYC™ 7501,155.0,155.0,False,32,32,False
+amd epyc 7502,amd epyc 7502,AMD EPYC™ 7502,180.0,180.0,False,32,32,False
+amd epyc 7502p,amd epyc 7502p,AMD EPYC™ 7502P,180.0,180.0,False,32,32,False
+amd epyc 7513,amd epyc 7513,AMD EPYC™ 7513,200.0,200.0,False,32,32,False
+amd epyc 7532,amd epyc 7532,AMD EPYC™ 7532,200.0,200.0,False,32,32,False
+amd epyc 7542,amd epyc 7542,AMD EPYC™ 7542,225.0,225.0,False,32,32,False
+amd epyc 7543,amd epyc 7543,AMD EPYC™ 7543,225.0,225.0,False,32,32,False
+amd epyc 7543p,amd epyc 7543p,AMD EPYC™ 7543P,225.0,225.0,False,32,32,False
+amd epyc 7551,amd epyc 7551,AMD EPYC™ 7551,180.0,180.0,False,32,32,False
+amd epyc 7551p,amd epyc 7551p,AMD EPYC™ 7551P,180.0,180.0,False,32,32,False
+amd epyc 7552,amd epyc 7552,AMD EPYC™ 7552,200.0,200.0,False,48,48,False
+amd epyc 75f3,amd epyc 75f3,AMD EPYC™ 75F3,280.0,280.0,False,32,32,False
+amd epyc 7601,amd epyc 7601,AMD EPYC™ 7601,180.0,180.0,False,32,32,False
+amd epyc 7642,amd epyc 7642,AMD EPYC™ 7642,225.0,225.0,False,48,48,False
+amd epyc 7643,amd epyc 7643,AMD EPYC™ 7643,225.0,225.0,False,48,48,False
+amd epyc 7662,amd epyc 7662,AMD EPYC™ 7662,225.0,225.0,False,64,64,False
+amd epyc 7663,amd epyc 7663,AMD EPYC™ 7663,240.0,240.0,False,56,56,False
+amd epyc 7702,amd epyc 7702,AMD EPYC™ 7702,200.0,200.0,False,64,64,False
+amd epyc 7702p,amd epyc 7702p,AMD EPYC™ 7702P,200.0,200.0,False,64,64,False
+amd epyc 7713,amd epyc 7713,AMD EPYC™ 7713,225.0,225.0,False,64,64,False
+amd epyc 7713p,amd epyc 7713p,AMD EPYC™ 7713P,225.0,225.0,False,64,64,False
+amd epyc 7742,amd epyc 7742,AMD EPYC™ 7742,225.0,225.0,False,64,64,False
+amd epyc 7763,amd epyc 7763,AMD EPYC™ 7763,280.0,280.0,False,64,64,False
+amd epyc 7f32,amd epyc 7f32,AMD EPYC™ 7F32,180.0,180.0,False,8,8,False
+amd epyc 7f52,amd epyc 7f52,AMD EPYC™ 7F52,240.0,240.0,False,16,16,False
+amd epyc 7f72,amd epyc 7f72,AMD EPYC™ 7F72,240.0,240.0,False,24,24,False
+amd epyc 7h12,amd epyc 7h12,AMD EPYC™ 7H12,280.0,280.0,False,64,64,False
+amd epyc 9124,amd epyc 9124,AMD EPYC™ 9124,200.0,200.0,False,16,16,False
+amd epyc 9174f,amd epyc 9174f,AMD EPYC™ 9174F,320.0,320.0,False,16,16,False
+amd epyc 9224,amd epyc 9224,AMD EPYC™ 9224,200.0,200.0,False,24,24,False
+amd epyc 9254,amd epyc 9254,AMD EPYC™ 9254,200.0,200.0,False,24,24,False
+amd epyc 9274f,amd epyc 9274f,AMD EPYC™ 9274F,320.0,320.0,False,24,24,False
+amd epyc 9334,amd epyc 9334,AMD EPYC™ 9334,210.0,210.0,False,32,32,False
+amd epyc 9354,amd epyc 9354,AMD EPYC™ 9354,280.0,280.0,False,32,32,False
+amd epyc 9354p,amd epyc 9354p,AMD EPYC™ 9354P,280.0,280.0,False,32,32,False
+amd epyc 9374f,amd epyc 9374f,AMD EPYC™ 9374F,320.0,320.0,False,32,32,False
+amd epyc 9454,amd epyc 9454,AMD EPYC™ 9454,290.0,290.0,False,48,48,False
+amd epyc 9454p,amd epyc 9454p,AMD EPYC™ 9454P,290.0,290.0,False,48,48,False
+amd epyc 9474f,amd epyc 9474f,AMD EPYC™ 9474F,360.0,360.0,False,48,48,False
+amd epyc 9534,amd epyc 9534,AMD EPYC™ 9534,280.0,280.0,False,64,64,False
+amd epyc 9554,amd epyc 9554,AMD EPYC™ 9554,360.0,360.0,False,64,64,False
+amd epyc 9554p,amd epyc 9554p,AMD EPYC™ 9554P,360.0,360.0,False,64,64,False
+amd epyc 9634,amd epyc 9634,AMD EPYC™ 9634,290.0,290.0,False,84,84,False
+amd epyc 9654,amd epyc 9654,AMD EPYC™ 9654,360.0,360.0,False,96,96,False
+amd epyc 9654p,amd epyc 9654p,AMD EPYC™ 9654P,360.0,360.0,False,96,96,False
+amd epyc embedded 3101,amd epyc embedded 3101,AMD EPYC™ Embedded 3101,35.0,35.0,False,4,4,False
+amd epyc embedded 3151,amd epyc embedded 3151,AMD EPYC™ Embedded 3151,45.0,45.0,False,4,4,False
+amd epyc embedded 3201,amd epyc embedded 3201,AMD EPYC™ Embedded 3201,30.0,30.0,False,8,8,False
+amd epyc embedded 3251,amd epyc embedded 3251,AMD EPYC™ Embedded 3251,55.0,55.0,False,8,8,False
+amd epyc embedded 3255,amd epyc embedded 3255,AMD EPYC™ Embedded 3255,55.0,25.0,True,8,8,False
+amd epyc embedded 3351,amd epyc embedded 3351,AMD EPYC™ Embedded 3351,80.0,60.0,True,12,12,False
+amd epyc embedded 3451,amd epyc embedded 3451,AMD EPYC™ Embedded 3451,100.0,80.0,True,16,16,False
+intel pentium 4405u,intel pentium 4405u,Intel® Pentium® Processor 4405U,15.0,15.0,False,2,2,False
+intel pentium 4405y,intel pentium 4405y,Intel® Pentium® Processor 4405Y,6.0,6.0,False,2,2,False
+intel pentium g4400,intel pentium g4400,Intel® Pentium® Processor G4400,54.0,54.0,False,2,2,False
+intel pentium g4400t,intel pentium g4400t,Intel® Pentium® Processor G4400T,35.0,35.0,False,2,2,False
+intel pentium g4400te,intel pentium g4400te,Intel® Pentium® Processor G4400TE,35.0,35.0,False,2,2,False
+intel pentium g4500,intel pentium g4500,Intel® Pentium® Processor G4500,51.0,51.0,False,2,2,False
+intel pentium g4500t,intel pentium g4500t,Intel® Pentium® Processor G4500T,35.0,35.0,False,2,2,False
+intel pentium g4520,intel pentium g4520,Intel® Pentium® Processor G4520,51.0,51.0,False,2,2,False
+intel pentium g4560t,intel pentium g4560t,Intel® Pentium® Processor G4560T,35.0,35.0,False,2,2,False
+intel pentium g4600t,intel pentium g4600t,Intel® Pentium® Processor G4600T,35.0,35.0,False,2,2,False
+intel pentium gold 4410y,intel pentium gold 4410y,Intel® Pentium® Gold Processor 4410Y,6.0,6.0,False,2,2,False
+intel pentium gold 4415u,intel pentium gold 4415u,Intel® Pentium® Gold Processor 4415U,15.0,15.0,False,2,2,False
+intel pentium gold 4415y,intel pentium gold 4415y,Intel® Pentium® Gold Processor 4415Y,6.0,6.0,False,2,2,False
+intel pentium gold 5405u,intel pentium gold 5405u,Intel® Pentium® Gold 5405U Processor,15.0,15.0,False,2,2,False
+intel pentium gold g5400,intel pentium gold g5400,Intel® Pentium® Gold G5400 Processor,54.0,58.0,True,2,2,False
+intel pentium gold g5400t,intel pentium gold g5400t,Intel® Pentium® Gold G5400T Processor,35.0,35.0,False,2,2,False
+intel pentium gold g5420,intel pentium gold g5420,Intel® Pentium® Gold G5420 Processor,54.0,54.0,False,2,2,False
+intel pentium gold g5420t,intel pentium gold g5420t,Intel® Pentium® Gold G5420T Processor,35.0,35.0,False,2,2,False
+intel pentium gold g5500,intel pentium gold g5500,Intel® Pentium® Gold G5500 Processor,54.0,54.0,False,2,2,False
+intel pentium gold g5500t,intel pentium gold g5500t,Intel® Pentium® Gold G5500T Processor,35.0,35.0,False,2,2,False
+intel pentium gold g5600,intel pentium gold g5600,Intel® Pentium® Gold G5600 Processor,54.0,54.0,False,2,2,False
+intel pentium gold g5600t,intel pentium gold g5600t,Intel® Pentium® Gold G5600T Processor,35.0,35.0,False,2,2,False
+intel pentium gold g5620,intel pentium gold g5620,Intel® Pentium® Gold G5620 Processor,54.0,54.0,False,2,2,False
+intel pentium j3710,intel pentium j3710,Intel® Pentium® Processor J3710,6.5,6.5,False,4,4,False
+intel pentium j4205,intel pentium j4205,Intel® Pentium® Processor J4205,10.0,10.0,False,4,4,False
+intel pentium n3700,intel pentium n3700,Intel® Pentium® Processor N3700,6.0,6.0,False,4,4,False
+intel pentium n3710,intel pentium n3710,Intel® Pentium® Processor N3710,6.0,6.0,False,4,4,False
+intel pentium n4200,intel pentium n4200,Intel® Pentium® Processor N4200,6.0,6.0,False,4,4,False
+intel pentium silver j5005,intel pentium silver j5005,Intel® Pentium® Silver J5005 Processor,10.0,10.0,False,4,4,False
+intel pentium silver n5000,intel pentium silver n5000,Intel® Pentium® Silver N5000 Processor,6.0,6.0,False,4,4,False
+amd ryzen 3 1200,amd ryzen 3 1200,AMD Ryzen™ 3 1200,65.0,65.0,False,4,4,False
+amd ryzen 3 1300x,amd ryzen 3 1300x,AMD Ryzen™ 3 1300X,65.0,65.0,False,4,4,False
+amd ryzen 3 2200u,amd ryzen 3 2200u,AMD Ryzen™ 3 2200U,15.0,15.0,False,2,2,False
+amd ryzen 3 2300u,amd ryzen 3 2300u,AMD Ryzen™ 3 2300U,15.0,15.0,False,4,4,False
+amd ryzen 3 2300x,amd ryzen 3 2300x,AMD Ryzen™ 3 2300X,65.0,65.0,False,4,4,False
+amd ryzen 3 3200u,amd ryzen 3 3200u,AMD Ryzen™ 3 3200U,15.0,15.0,False,2,2,False
+amd ryzen 3 3250u,amd ryzen 3 3250u,AMD Ryzen™ 3 3250U,15.0,15.0,False,2,2,False
+amd ryzen 3 3300u,amd ryzen 3 3300u,AMD Ryzen™ 3 3300U,15.0,15.0,False,4,4,False
+amd ryzen 3 4300u,amd ryzen 3 4300u,AMD Ryzen™ 3 4300U,15.0,15.0,False,4,4,False
+amd ryzen 3 5300u,amd ryzen 3 5300u,AMD Ryzen™ 3 5300U,15.0,15.0,False,4,4,False
+amd ryzen 3 5400u,amd ryzen 3 5400u,AMD Ryzen™ 3 5400U,15.0,15.0,False,4,4,False
+amd ryzen 3 pro 1200,amd ryzen 3 pro 1200,AMD Ryzen™ 3 PRO 1200,65.0,65.0,False,4,4,False
+amd ryzen 3 pro 1300,amd ryzen 3 pro 1300,AMD Ryzen™ 3 PRO 1300,65.0,65.0,False,4,4,False
+amd ryzen 3 pro 2300u,amd ryzen 3 pro 2300u,AMD Ryzen™ 3 PRO 2300U,15.0,15.0,False,4,4,False
+amd ryzen 3 pro 3200g,amd ryzen 3 pro 3200g,AMD Ryzen™ 3 PRO 3200G,65.0,65.0,False,4,4,False
+amd ryzen 3 pro 3200ge,amd ryzen 3 pro 3200ge,AMD Ryzen™ 3 PRO 3200GE,35.0,35.0,False,4,4,False
+amd ryzen 3 pro 3300u,amd ryzen 3 pro 3300u,AMD Ryzen™ 3 PRO 3300U,15.0,15.0,False,4,4,False
+amd ryzen 3 pro 4350g,amd ryzen 3 pro 4350g,AMD Ryzen™ 3 PRO 4350G,65.0,65.0,False,4,4,False
+amd ryzen 3 pro 4350ge,amd ryzen 3 pro 4350ge,AMD Ryzen™ 3 PRO 4350GE,35.0,35.0,False,4,4,False
+amd ryzen 3 pro 4450u,amd ryzen 3 pro 4450u,AMD Ryzen™ 3 PRO 4450U,15.0,15.0,False,4,4,False
+amd ryzen 3 pro 5350g,amd ryzen 3 pro 5350g,AMD Ryzen™ 3 PRO 5350G,65.0,65.0,False,4,4,False
+amd ryzen 3 pro 5350ge,amd ryzen 3 pro 5350ge,AMD Ryzen™ 3 PRO 5350GE,35.0,35.0,False,4,4,False
+amd ryzen 3 pro 5450u,amd ryzen 3 pro 5450u,AMD Ryzen™ 3 PRO 5450U,15.0,15.0,False,4,4,False
+amd ryzen 5 1400,amd ryzen 5 1400,AMD Ryzen™ 5 1400,65.0,65.0,False,4,4,False
+amd ryzen 5 1500x,amd ryzen 5 1500x,AMD Ryzen™ 5 1500X,65.0,65.0,False,4,4,False
+amd ryzen 5 1600,amd ryzen 5 1600,AMD Ryzen™ 5 1600,65.0,65.0,False,6,6,False
+amd ryzen 5 1600x,amd ryzen 5 1600x,AMD Ryzen™ 5 1600X,95.0,95.0,False,6,6,False
+amd ryzen 5 2500u,amd ryzen 5 2500u,AMD Ryzen™ 5 2500U,15.0,15.0,False,4,4,False
+amd ryzen 5 2500x,amd ryzen 5 2500x,AMD Ryzen™ 5 2500X,65.0,65.0,False,4,4,False
+amd ryzen 5 2600,amd ryzen 5 2600,AMD Ryzen™ 5 2600,65.0,65.0,False,6,6,False
+amd ryzen 5 2600e,amd ryzen 5 2600e,AMD Ryzen™ 5 2600E,45.0,45.0,False,6,6,False
+amd ryzen 5 2600h,amd ryzen 5 2600h,AMD Ryzen™ 5 2600H,45.0,45.0,False,4,4,False
+amd ryzen 5 2600x,amd ryzen 5 2600x,AMD Ryzen™ 5 2600X,95.0,95.0,False,6,6,False
+amd ryzen 5 3500u,amd ryzen 5 3500u,AMD Ryzen™ 5 3500U,15.0,15.0,False,4,4,False
+amd ryzen 5 3550h,amd ryzen 5 3550h,AMD Ryzen™ 5 3550H,35.0,35.0,False,4,4,False
+amd ryzen 5 3600,amd ryzen 5 3600,AMD Ryzen™ 5 3600,65.0,65.0,False,6,6,False
+amd ryzen 5 3600x,amd ryzen 5 3600x,AMD Ryzen™ 5 3600X,95.0,95.0,False,6,6,False
+amd ryzen 5 3600xt,amd ryzen 5 3600xt,AMD Ryzen™ 5 3600XT,95.0,95.0,False,6,6,False
+amd ryzen 5 4500u,amd ryzen 5 4500u,AMD Ryzen™ 5 4500U,15.0,15.0,False,6,6,False
+amd ryzen 5 4600g,amd ryzen 5 4600g,AMD Ryzen™ 5 4600G,65.0,65.0,False,6,6,False
+amd ryzen 5 4600h,amd ryzen 5 4600h,AMD Ryzen™ 5 4600H,45.0,45.0,False,6,6,False
+amd ryzen 5 4600u,amd ryzen 5 4600u,AMD Ryzen™ 5 4600U,15.0,15.0,False,6,6,False
+amd ryzen 5 5500u,amd ryzen 5 5500u,AMD Ryzen™ 5 5500U,15.0,15.0,False,6,6,False
+amd ryzen 5 5600g,amd ryzen 5 5600g,AMD Ryzen™ 5 5600G,65.0,65.0,False,6,6,False
+amd ryzen 5 5600ge,amd ryzen 5 5600ge,AMD Ryzen™ 5 5600GE,35.0,35.0,False,6,6,False
+amd ryzen 5 5600h,amd ryzen 5 5600h,AMD Ryzen™ 5 5600H,45.0,45.0,False,6,6,False
+amd ryzen 5 5600hs,amd ryzen 5 5600hs,AMD Ryzen™ 5 5600HS,35.0,35.0,False,6,6,False
+amd ryzen 5 5600u,amd ryzen 5 5600u,AMD Ryzen™ 5 5600U,15.0,15.0,False,6,6,False
+amd ryzen 5 5600x,amd ryzen 5 5600x,AMD Ryzen™ 5 5600X,65.0,65.0,False,6,6,False
+amd ryzen 5 7600x,amd ryzen 5 7600x,AMD Ryzen™ 5 7600X,105.0,105.0,False,6,6,False
+amd ryzen 5 pro 1500,amd ryzen 5 pro 1500,AMD Ryzen™ 5 PRO 1500,65.0,65.0,False,4,4,False
+amd ryzen 5 pro 1600,amd ryzen 5 pro 1600,AMD Ryzen™ 5 PRO 1600,65.0,65.0,False,6,6,False
+amd ryzen 5 pro 2500u,amd ryzen 5 pro 2500u,AMD Ryzen™ 5 PRO 2500U,15.0,15.0,False,4,4,False
+amd ryzen 5 pro 2600,amd ryzen 5 pro 2600,AMD Ryzen™ 5 PRO 2600,65.0,65.0,False,6,6,False
+amd ryzen 5 pro 3400g,amd ryzen 5 pro 3400g,AMD Ryzen™ 5 PRO 3400G,65.0,65.0,False,4,4,False
+amd ryzen 5 pro 3400ge,amd ryzen 5 pro 3400ge,AMD Ryzen™ 5 PRO 3400GE,35.0,35.0,False,4,4,False
+amd ryzen 5 pro 3500u,amd ryzen 5 pro 3500u,AMD Ryzen™ 5 PRO 3500U,15.0,15.0,False,4,4,False
+amd ryzen 5 pro 3600,amd ryzen 5 pro 3600,AMD Ryzen™ 5 PRO 3600,65.0,65.0,False,6,6,False
+amd ryzen 5 pro 4650g,amd ryzen 5 pro 4650g,AMD Ryzen™ 5 PRO 4650G,65.0,65.0,False,6,6,False
+amd ryzen 5 pro 4650ge,amd ryzen 5 pro 4650ge,AMD Ryzen™ 5 PRO 4650GE,35.0,35.0,False,6,6,False
+amd ryzen 5 pro 4650u,amd ryzen 5 pro 4650u,AMD Ryzen™ 5 PRO 4650U,15.0,15.0,False,6,6,False
+amd ryzen 5 pro 5650ge,amd ryzen 5 pro 5650ge,AMD Ryzen™ 5 PRO 5650GE,35.0,35.0,False,6,6,False
+amd ryzen 5 pro 5650u,amd ryzen 5 pro 5650u,AMD Ryzen™ 5 PRO 5650U,15.0,15.0,False,6,6,False
+amd ryzen 7 1700,amd ryzen 7 1700,AMD Ryzen™ 7 1700 Processor,65.0,65.0,False,8,8,False
+amd ryzen 7 1700x,amd ryzen 7 1700x,AMD Ryzen™ 7 1700X,95.0,95.0,False,8,8,False
+amd ryzen 7 1800x,amd ryzen 7 1800x,AMD Ryzen™ 7 1800X,95.0,95.0,False,8,8,False
+amd ryzen 7 2700,amd ryzen 7 2700,AMD Ryzen™ 7 2700,65.0,65.0,False,8,8,False
+amd ryzen 7 2700e,amd ryzen 7 2700e,AMD Ryzen™ 7 2700E Processor,45.0,45.0,False,8,8,False
+amd ryzen 7 2700u,amd ryzen 7 2700u,AMD Ryzen™ 7 2700U,15.0,15.0,False,4,4,False
+amd ryzen 7 2700x,amd ryzen 7 2700x,AMD Ryzen™ 7 2700X,105.0,105.0,False,8,8,False
+amd ryzen 7 2800h,amd ryzen 7 2800h,AMD Ryzen™ 7 2800H,45.0,45.0,False,4,4,False
+amd ryzen 7 3700u,amd ryzen 7 3700u,AMD Ryzen™ 7 3700U,15.0,15.0,False,4,4,False
+amd ryzen 7 3700x,amd ryzen 7 3700x,AMD Ryzen™ 7 3700X,65.0,65.0,False,8,8,False
+amd ryzen 7 3750h,amd ryzen 7 3750h,AMD Ryzen™ 7 3750H,35.0,35.0,False,4,4,False
+amd ryzen 7 3800x,amd ryzen 7 3800x,AMD Ryzen™ 7 3800X,105.0,105.0,False,8,8,False
+amd ryzen 7 3800xt,amd ryzen 7 3800xt,AMD Ryzen™ 7 3800XT,105.0,105.0,False,8,8,False
+amd ryzen 7 4700u,amd ryzen 7 4700u,AMD Ryzen™ 7 4700U,15.0,15.0,False,8,8,False
+amd ryzen 7 4800h,amd ryzen 7 4800h,AMD Ryzen™ 7 4800H,45.0,45.0,False,8,8,False
+amd ryzen 7 4800hs,amd ryzen 7 4800hs,AMD Ryzen™ 7 4800HS,35.0,45.0,True,8,8,False
+amd ryzen 7 4800u,amd ryzen 7 4800u,AMD Ryzen™ 7 4800U,15.0,15.0,False,8,8,False
+amd ryzen 7 5700g,amd ryzen 7 5700g,AMD Ryzen™ 7 5700G,65.0,65.0,False,8,8,False
+amd ryzen 7 5700ge,amd ryzen 7 5700ge,AMD Ryzen™ 7 5700GE,35.0,35.0,False,8,8,False
+amd ryzen 7 5700u,amd ryzen 7 5700u,AMD Ryzen™ 7 5700U,15.0,15.0,False,8,8,False
+amd ryzen 7 5800h,amd ryzen 7 5800h,AMD Ryzen™ 7 5800H,45.0,45.0,False,8,8,False
+amd ryzen 7 5800hs,amd ryzen 7 5800hs,AMD Ryzen™ 7 5800HS,35.0,35.0,False,8,8,False
+amd ryzen 7 5800u,amd ryzen 7 5800u,AMD Ryzen™ 7 5800U,15.0,15.0,False,8,8,False
+amd ryzen 7 5800x,amd ryzen 7 5800x,AMD Ryzen™ 7 5800X,105.0,105.0,False,8,8,False
+amd ryzen 7 5800x3d,amd ryzen 7 5800x3d,AMD Ryzen™ 7 5800X3D,105.0,105.0,False,8,8,False
+amd ryzen 7 7700,amd ryzen 7 7700,AMD Ryzen™ 7 7700,65.0,65.0,False,8,8,False
+amd ryzen 7 7700x,amd ryzen 7 7700x,AMD Ryzen™ 7 7700X,105.0,105.0,False,8,8,False
+amd ryzen 7 7800x3d,amd ryzen 7 7800x3d,AMD Ryzen™ 7 7800X3D,120.0,120.0,False,8,8,False
+amd ryzen 7 pro 1700,amd ryzen 7 pro 1700,AMD Ryzen™ 7 PRO 1700,65.0,65.0,False,8,8,False
+amd ryzen 7 pro 1700x,amd ryzen 7 pro 1700x,AMD Ryzen™ 7 PRO 1700X Processor,95.0,95.0,False,8,8,False
+amd ryzen 7 pro 2700,amd ryzen 7 pro 2700,AMD Ryzen™ 7 PRO 2700,65.0,65.0,False,8,8,False
+amd ryzen 7 pro 2700u,amd ryzen 7 pro 2700u,AMD Ryzen™ 7 PRO 2700U,15.0,15.0,False,4,4,False
+amd ryzen 7 pro 2700x,amd ryzen 7 pro 2700x,AMD Ryzen™ 7 PRO 2700X,105.0,95.0,True,8,8,False
+amd ryzen 7 pro 3700,amd ryzen 7 pro 3700,AMD Ryzen™ 7 PRO 3700,65.0,65.0,False,8,8,False
+amd ryzen 7 pro 3700u,amd ryzen 7 pro 3700u,AMD Ryzen™ 7 PRO 3700U,15.0,15.0,False,4,4,False
+amd ryzen 7 pro 4750g,amd ryzen 7 pro 4750g,AMD Ryzen™ 7 PRO 4750G,65.0,65.0,False,8,8,False
+amd ryzen 7 pro 4750ge,amd ryzen 7 pro 4750ge,AMD Ryzen™ 7 PRO 4750GE,35.0,35.0,False,8,8,False
+amd ryzen 7 pro 4750u,amd ryzen 7 pro 4750u,AMD Ryzen™ 7 PRO 4750U,15.0,15.0,False,8,8,False
+amd ryzen 7 pro 5750g,amd ryzen 7 pro 5750g,AMD Ryzen™ 7 PRO 5750G,65.0,65.0,False,8,8,False
+amd ryzen 7 pro 5750ge,amd ryzen 7 pro 5750ge,AMD Ryzen™ 7 PRO 5750GE,35.0,35.0,False,8,8,False
+amd ryzen 7 pro 5850u,amd ryzen 7 pro 5850u,AMD Ryzen™ 7 PRO 5850U,15.0,15.0,False,8,8,False
+amd ryzen 9 3900x,amd ryzen 9 3900x,AMD Ryzen™ 9 3900X,105.0,105.0,False,12,12,False
+amd ryzen 9 3900xt,amd ryzen 9 3900xt,AMD Ryzen™ 9 3900XT,105.0,105.0,False,12,12,False
+amd ryzen 9 3950x,amd ryzen 9 3950x,AMD Ryzen™ 9 3950X,105.0,105.0,False,16,16,False
+amd ryzen 9 4900h,amd ryzen 9 4900h,AMD Ryzen™ 9 4900H,45.0,35.0,True,8,8,False
+amd ryzen 9 4900hs,amd ryzen 9 4900hs,AMD Ryzen™ 9 4900HS,35.0,35.0,False,8,8,False
+amd ryzen 9 5900hs,amd ryzen 9 5900hs,AMD Ryzen™ 9 5900HS,35.0,35.0,False,8,8,False
+amd ryzen 9 5900hx,amd ryzen 9 5900hx,AMD Ryzen™ 9 5900HX,45.0,45.0,False,8,8,False
+amd ryzen 9 5900x,amd ryzen 9 5900x,AMD Ryzen™ 9 5900X,105.0,105.0,False,12,12,False
+amd ryzen 9 5950x,amd ryzen 9 5950x,AMD Ryzen™ 9 5950X,105.0,105.0,False,16,16,False
+amd ryzen 9 5980hs,amd ryzen 9 5980hs,AMD Ryzen™ 9 5980HS,35.0,35.0,False,8,8,False
+amd ryzen 9 5980hx,amd ryzen 9 5980hx,AMD Ryzen™ 9 5980HX,45.0,45.0,False,8,8,False
+amd ryzen 9 7950x3d,amd ryzen 9 7950x3d,AMD Ryzen™ 9 7950X3D,120.0,120.0,False,16,16,False
+amd ryzen 9 pro 3900,amd ryzen 9 pro 3900,AMD Ryzen™ 9 PRO 3900,65.0,65.0,False,12,12,False
+amd ryzen embedded v1500b,amd ryzen embedded v1500b,AMD Ryzen™ Embedded V1500B,16.0,12.0,True,4,4,False
+amd ryzen embedded v1780b,amd ryzen embedded v1780b,AMD Ryzen™ Embedded V1780B,45.0,35.0,True,4,4,False
+amd ryzen threadripper 1900x,amd ryzen threadripper 1900x,AMD Ryzen™ Threadripper™ 1900X,180.0,180.0,False,8,8,False
+amd ryzen threadripper 1920x,amd ryzen threadripper 1920x,AMD Ryzen™ Threadripper™ 1920X,180.0,180.0,False,12,12,False
+amd ryzen threadripper 1950x,amd ryzen threadripper 1950x,AMD Ryzen™ Threadripper™ 1950X,180.0,180.0,False,16,16,False
+amd ryzen threadripper 2920x,amd ryzen threadripper 2920x,AMD Ryzen™ Threadripper™ 2920X,180.0,180.0,False,12,12,False
+amd ryzen threadripper 2950x,amd ryzen threadripper 2950x,AMD Ryzen™ Threadripper™ 2950X,180.0,180.0,False,16,16,False
+amd ryzen threadripper 2970wx,amd ryzen threadripper 2970wx,AMD Ryzen™ Threadripper™ 2970WX,250.0,250.0,False,24,24,False
+amd ryzen threadripper 2990wx,amd ryzen threadripper 2990wx,AMD Ryzen™ Threadripper™ 2990WX,250.0,250.0,False,32,32,False
+amd ryzen threadripper 3960x,amd ryzen threadripper 3960x,AMD Ryzen™ Threadripper™ 3960X,280.0,280.0,False,24,24,False
+amd ryzen threadripper 3970x,amd ryzen threadripper 3970x,AMD Ryzen™ Threadripper™ 3970X,280.0,280.0,False,32,32,False
+amd ryzen threadripper 3990x,amd ryzen threadripper 3990x,AMD Ryzen™ Threadripper™ 3990X,280.0,280.0,False,64,64,False
+amd ryzen threadripper pro 3945wx,amd ryzen threadripper pro 3945wx,AMD Ryzen™ Threadripper™ PRO 3945WX,280.0,280.0,False,12,12,False
+amd ryzen threadripper pro 3955wx,amd ryzen threadripper pro 3955wx,AMD Ryzen™ Threadripper™ PRO 3955WX,280.0,280.0,False,16,16,False
+amd ryzen threadripper pro 3975wx,amd ryzen threadripper pro 3975wx,AMD Ryzen™ Threadripper™ PRO 3975WX,280.0,280.0,False,32,32,False
+amd ryzen threadripper pro 3995wx,amd ryzen threadripper pro 3995wx,AMD Ryzen™ Threadripper™ PRO 3995WX,280.0,280.0,False,64,64,False
+amd ryzen threadripper pro 5945wx,amd ryzen threadripper pro 5945wx,AMD Ryzen™ Threadripper™ PRO 5945WX,280.0,280.0,False,12,12,False
+amd ryzen threadripper pro 5955wx,amd ryzen threadripper pro 5955wx,AMD Ryzen™ Threadripper™ PRO 5955WX,280.0,280.0,False,16,16,False
+amd ryzen threadripper pro 5965wx,amd ryzen threadripper pro 5965wx,AMD Ryzen™ Threadripper™ PRO 5965WX,280.0,280.0,False,24,24,False
+amd ryzen threadripper pro 5975wx,amd ryzen threadripper pro 5975wx,AMD Ryzen™ Threadripper™ PRO 5975WX,280.0,280.0,False,32,32,False
+amd ryzen threadripper pro 5995wx,amd ryzen threadripper pro 5995wx,AMD Ryzen™ Threadripper™ PRO 5995WX,280.0,280.0,False,64,64,False
+intel xeon bronze 3104,intel xeon bronze 3104,Intel® Xeon® Bronze 3104 Processor,85.0,85.0,False,6,6,False
+intel xeon bronze 3106,intel xeon bronze 3106,Intel® Xeon® Bronze 3106 Processor,85.0,85.0,False,8,8,False
+intel xeon bronze 3204,intel xeon bronze 3204,Intel® Xeon® Bronze 3204 Processor,85.0,85.0,False,6,6,False
+intel xeon d-1513n,intel xeon d-1513n,Intel® Xeon® Processor D-1513N,35.0,35.0,False,4,4,False
+intel xeon d-1518,intel xeon d-1518,Intel® Xeon® Processor D-1518,35.0,35.0,False,4,4,False
+intel xeon d-1520,intel xeon d-1520,Intel® Xeon® Processor D-1520,45.0,45.0,False,4,4,False
+intel xeon d-1521,intel xeon d-1521,Intel® Xeon® Processor D-1521,45.0,45.0,False,4,4,False
+intel xeon d-1523n,intel xeon d-1523n,Intel® Xeon® Processor D-1523N,45.0,45.0,False,4,4,False
+intel xeon d-1527,intel xeon d-1527,Intel® Xeon® Processor D-1527,35.0,35.0,False,4,4,False
+intel xeon d-1528,intel xeon d-1528,Intel® Xeon® Processor D-1528,35.0,35.0,False,6,6,False
+intel xeon d-1529,intel xeon d-1529,Intel® Xeon® Processor D-1529,20.0,20.0,False,4,4,False
+intel xeon d-1531,intel xeon d-1531,Intel® Xeon® Processor D-1531,45.0,45.0,False,6,6,False
+intel xeon d-1533n,intel xeon d-1533n,Intel® Xeon® Processor D-1533N,45.0,45.0,False,6,6,False
+intel xeon d-1537,intel xeon d-1537,Intel® Xeon® Processor D-1537,35.0,35.0,False,8,8,False
+intel xeon d-1539,intel xeon d-1539,Intel® Xeon® Processor D-1539,35.0,35.0,False,8,8,False
+intel xeon d-1540,intel xeon d-1540,Intel® Xeon® Processor D-1540,45.0,45.0,False,8,8,False
+intel xeon d-1541,intel xeon d-1541,Intel® Xeon® Processor D-1541,45.0,45.0,False,8,8,False
+intel xeon d-1543n,intel xeon d-1543n,Intel® Xeon® Processor D-1543N,45.0,45.0,False,8,8,False
+intel xeon d-1548,intel xeon d-1548,Intel® Xeon® Processor D-1548,45.0,45.0,False,8,8,False
+intel xeon d-1553n,intel xeon d-1553n,Intel® Xeon® Processor D-1553N,65.0,65.0,False,8,8,False
+intel xeon d-1557,intel xeon d-1557,Intel® Xeon® Processor D-1557,45.0,45.0,False,12,12,False
+intel xeon d-1559,intel xeon d-1559,Intel® Xeon® Processor D-1559,45.0,45.0,False,12,12,False
+intel xeon d-1567,intel xeon d-1567,Intel® Xeon® Processor D-1567,65.0,65.0,False,12,12,False
+intel xeon d-1571,intel xeon d-1571,Intel® Xeon® Processor D-1571,45.0,45.0,False,16,16,False
+intel xeon d-1577,intel xeon d-1577,Intel® Xeon® Processor D-1577,45.0,45.0,False,16,16,False
+intel xeon d-1602,intel xeon d-1602,Intel® Xeon® D-1602 Processor,27.0,27.0,False,2,2,False
+intel xeon d-1622,intel xeon d-1622,Intel® Xeon® D-1622 Processor,40.0,40.0,False,4,4,False
+intel xeon d-1623n,intel xeon d-1623n,Intel® Xeon® D-1623N Processor,35.0,35.0,False,4,4,False
+intel xeon d-1627,intel xeon d-1627,Intel® Xeon® D-1627 Processor,45.0,45.0,False,4,4,False
+intel xeon d-1633n,intel xeon d-1633n,Intel® Xeon® D-1633N Processor,45.0,45.0,False,6,6,False
+intel xeon d-1637,intel xeon d-1637,Intel® Xeon® D-1637 Processor,55.0,55.0,False,6,6,False
+intel xeon d-1649n,intel xeon d-1649n,Intel® Xeon® D-1649N Processor,45.0,45.0,False,8,8,False
+intel xeon d-1653n,intel xeon d-1653n,Intel® Xeon® D-1653N Processor,65.0,65.0,False,8,8,False
+intel xeon d-2123it,intel xeon d-2123it,Intel® Xeon® D-2123IT Processor,60.0,60.0,False,4,4,False
+intel xeon d-2141i,intel xeon d-2141i,Intel® Xeon® D-2141I Processor,65.0,65.0,False,8,8,False
+intel xeon d-2142it,intel xeon d-2142it,Intel® Xeon® D-2142IT Processor,65.0,65.0,False,8,8,False
+intel xeon d-2143it,intel xeon d-2143it,Intel® Xeon® D-2143IT Processor,65.0,65.0,False,8,8,False
+intel xeon d-2145nt,intel xeon d-2145nt,Intel® Xeon® D-2145NT Processor,65.0,65.0,False,8,8,False
+intel xeon d-2146nt,intel xeon d-2146nt,Intel® Xeon® D-2146NT Processor,80.0,80.0,False,8,8,False
+intel xeon d-2161i,intel xeon d-2161i,Intel® Xeon® D-2161I Processor,90.0,90.0,False,12,12,False
+intel xeon d-2163it,intel xeon d-2163it,Intel® Xeon® D-2163IT Processor,75.0,75.0,False,12,12,False
+intel xeon d-2166nt,intel xeon d-2166nt,Intel® Xeon® D-2166NT Processor,85.0,85.0,False,12,12,False
+intel xeon d-2173it,intel xeon d-2173it,Intel® Xeon® D-2173IT Processor,70.0,70.0,False,14,14,False
+intel xeon d-2177nt,intel xeon d-2177nt,Intel® Xeon® D-2177NT Processor,105.0,105.0,False,14,14,False
+intel xeon d-2183it,intel xeon d-2183it,Intel® Xeon® D-2183IT Processor,100.0,100.0,False,16,16,False
+intel xeon d-2187nt,intel xeon d-2187nt,Intel® Xeon® D-2187NT Processor,110.0,110.0,False,16,16,False
+intel xeon e-2124,intel xeon e-2124,Intel® Xeon® E-2124 Processor,71.0,71.0,False,4,4,False
+intel xeon e-2124g,intel xeon e-2124g,Intel® Xeon® E-2124G Processor,71.0,71.0,False,4,4,False
+intel xeon e-2126g,intel xeon e-2126g,Intel® Xeon® E-2126G Processor,80.0,80.0,False,6,6,False
+intel xeon e-2134,intel xeon e-2134,Intel® Xeon® E-2134 Processor,71.0,71.0,False,4,4,False
+intel xeon e-2136,intel xeon e-2136,Intel® Xeon® E-2136 Processor,80.0,80.0,False,6,6,False
+intel xeon e-2144g,intel xeon e-2144g,Intel® Xeon® E-2144G Processor,71.0,71.0,False,4,4,False
+intel xeon e-2146g,intel xeon e-2146g,Intel® Xeon® E-2146G Processor,80.0,80.0,False,6,6,False
+intel xeon e-2174g,intel xeon e-2174g,Intel® Xeon® E-2174G Processor,71.0,71.0,False,4,4,False
+intel xeon e-2176g,intel xeon e-2176g,Intel® Xeon® E-2176G Processor,80.0,80.0,False,6,6,False
+intel xeon e-2176m,intel xeon e-2176m,Intel® Xeon® E-2176M Processor,45.0,45.0,False,6,6,False
+intel xeon e-2186g,intel xeon e-2186g,Intel® Xeon® E-2186G Processor,95.0,95.0,False,6,6,False
+intel xeon e-2186m,intel xeon e-2186m,Intel® Xeon® E-2186M Processor,45.0,45.0,False,6,6,False
+intel xeon e-2224,intel xeon e-2224,Intel® Xeon® E-2224 Processor,71.0,71.0,False,4,4,False
+intel xeon e-2224g,intel xeon e-2224g,Intel® Xeon® E-2224G Processor,71.0,71.0,False,4,4,False
+intel xeon e-2226g,intel xeon e-2226g,Intel® Xeon® E-2226G Processor,80.0,80.0,False,6,6,False
+intel xeon e-2234,intel xeon e-2234,Intel® Xeon® E-2234 Processor,71.0,71.0,False,4,4,False
+intel xeon e-2236,intel xeon e-2236,Intel® Xeon® E-2236 Processor,80.0,80.0,False,6,6,False
+intel xeon e-2244g,intel xeon e-2244g,Intel® Xeon® E-2244G Processor,71.0,71.0,False,4,4,False
+intel xeon e-2246g,intel xeon e-2246g,Intel® Xeon® E-2246G Processor,80.0,80.0,False,6,6,False
+intel xeon e-2274g,intel xeon e-2274g,Intel® Xeon® E-2274G Processor,83.0,83.0,False,4,4,False
+intel xeon e-2276g,intel xeon e-2276g,Intel® Xeon® E-2276G Processor,80.0,80.0,False,6,6,False
+intel xeon e-2276m,intel xeon e-2276m,Intel® Xeon® E-2276M Processor,45.0,45.0,False,6,6,False
+intel xeon e-2278g,intel xeon e-2278g,Intel® Xeon® E-2278G Processor,80.0,80.0,False,8,8,False
+intel xeon e-2286g,intel xeon e-2286g,Intel® Xeon® E-2286G Processor,95.0,95.0,False,6,6,False
+intel xeon e-2286m,intel xeon e-2286m,Intel® Xeon® E-2286M Processor,45.0,45.0,False,8,8,False
+intel xeon e-2288g,intel xeon e-2288g,Intel® Xeon® E-2288G Processor,95.0,95.0,False,8,8,False
+intel xeon e3-1220 v5,intel xeon e3-1220 v5,Intel® Xeon® Processor E3-1220 v5,80.0,80.0,False,4,4,False
+intel xeon e3-1220 v6,intel xeon e3-1220 v6,Intel® Xeon® Processor E3-1220 v6,72.0,72.0,False,4,4,False
+intel xeon e3-1225 v5,intel xeon e3-1225 v5,Intel® Xeon® Processor E3-1225 v5,80.0,80.0,False,4,4,False
+intel xeon e3-1225 v6,intel xeon e3-1225 v6,Intel® Xeon® Processor E3-1225 v6,73.0,73.0,False,4,4,False
+intel xeon e3-1230 v5,intel xeon e3-1230 v5,Intel® Xeon® Processor E3-1230 v5,80.0,80.0,False,4,4,False
+intel xeon e3-1230 v6,intel xeon e3-1230 v6,Intel® Xeon® Processor E3-1230 v6,72.0,72.0,False,4,4,False
+intel xeon e3-1235l v5,intel xeon e3-1235l v5,Intel® Xeon® Processor E3-1235L v5,25.0,25.0,False,4,4,False
+intel xeon e3-1240 v5,intel xeon e3-1240 v5,Intel® Xeon® Processor E3-1240 v5,80.0,80.0,False,4,4,False
+intel xeon e3-1240 v6,intel xeon e3-1240 v6,Intel® Xeon® Processor E3-1240 v6,72.0,72.0,False,4,4,False
+intel xeon e3-1240l v5,intel xeon e3-1240l v5,Intel® Xeon® Processor E3-1240L v5,25.0,25.0,False,4,4,False
+intel xeon e3-1245 v5,intel xeon e3-1245 v5,Intel® Xeon® Processor E3-1245 v5,80.0,80.0,False,4,4,False
+intel xeon e3-1245 v6,intel xeon e3-1245 v6,Intel® Xeon® Processor E3-1245 v6,73.0,73.0,False,4,4,False
+intel xeon e3-1260l v5,intel xeon e3-1260l v5,Intel® Xeon® Processor E3-1260L v5,45.0,45.0,False,4,4,False
+intel xeon e3-1268l v5,intel xeon e3-1268l v5,Intel® Xeon® Processor E3-1268L v5,35.0,35.0,False,4,4,False
+intel xeon e3-1270 v5,intel xeon e3-1270 v5,Intel® Xeon® Processor E3-1270 v5,80.0,80.0,False,4,4,False
+intel xeon e3-1270 v6,intel xeon e3-1270 v6,Intel® Xeon® Processor E3-1270 v6,72.0,72.0,False,4,4,False
+intel xeon e3-1275 v5,intel xeon e3-1275 v5,Intel® Xeon® Processor E3-1275 v5,80.0,80.0,False,4,4,False
+intel xeon e3-1275 v6,intel xeon e3-1275 v6,Intel® Xeon® Processor E3-1275 v6,73.0,73.0,False,4,4,False
+intel xeon e3-1280 v5,intel xeon e3-1280 v5,Intel® Xeon® Processor E3-1280 v5,80.0,80.0,False,4,4,False
+intel xeon e3-1280 v6,intel xeon e3-1280 v6,Intel® Xeon® Processor E3-1280 v6,72.0,72.0,False,4,4,False
+intel xeon e3-1285 v6,intel xeon e3-1285 v6,Intel® Xeon® Processor E3-1285 v6,79.0,79.0,False,4,4,False
+intel xeon e3-1501l v6,intel xeon e3-1501l v6,Intel® Xeon® Processor E3-1501L v6,25.0,25.0,False,4,4,False
+intel xeon e3-1501m v6,intel xeon e3-1501m v6,Intel® Xeon® Processor E3-1501M v6,45.0,45.0,False,4,4,False
+intel xeon e3-1505l v5,intel xeon e3-1505l v5,Intel® Xeon® Processor E3-1505L v5,25.0,25.0,False,4,4,False
+intel xeon e3-1505l v6,intel xeon e3-1505l v6,Intel® Xeon® Processor E3-1505L v6,25.0,25.0,False,4,4,False
+intel xeon e3-1505m v5,intel xeon e3-1505m v5,Intel® Xeon® Processor E3-1505M v5,45.0,45.0,False,4,4,False
+intel xeon e3-1505m v6,intel xeon e3-1505m v6,Intel® Xeon® Processor E3-1505M v6,45.0,45.0,False,4,4,False
+intel xeon e3-1515m v5,intel xeon e3-1515m v5,Intel® Xeon® Processor E3-1515M v5,45.0,45.0,False,4,4,False
+intel xeon e3-1535m v5,intel xeon e3-1535m v5,Intel® Xeon® Processor E3-1535M v5,45.0,45.0,False,4,4,False
+intel xeon e3-1535m v6,intel xeon e3-1535m v6,Intel® Xeon® Processor E3-1535M v6,45.0,45.0,False,4,4,False
+intel xeon e3-1545m v5,intel xeon e3-1545m v5,Intel® Xeon® Processor E3-1545M v5,45.0,45.0,False,4,4,False
+intel xeon e3-1558l v5,intel xeon e3-1558l v5,Intel® Xeon® Processor E3-1558L v5,45.0,45.0,False,4,4,False
+intel xeon e3-1565l v5,intel xeon e3-1565l v5,Intel® Xeon® Processor E3-1565L v5,35.0,35.0,False,4,4,False
+intel xeon e3-1575m v5,intel xeon e3-1575m v5,Intel® Xeon® Processor E3-1575M v5,45.0,45.0,False,4,4,False
+intel xeon e3-1578l v5,intel xeon e3-1578l v5,Intel® Xeon® Processor E3-1578L v5,45.0,45.0,False,4,4,False
+intel xeon e3-1585 v5,intel xeon e3-1585 v5,Intel® Xeon® Processor E3-1585 v5,65.0,65.0,False,4,4,False
+intel xeon e3-1585l v5,intel xeon e3-1585l v5,Intel® Xeon® Processor E3-1585L v5,45.0,45.0,False,4,4,False
+intel xeon e5-1620 v4,intel xeon e5-1620 v4,Intel® Xeon® Processor E5-1620 v4,140.0,140.0,False,4,4,False
+intel xeon e5-1630 v4,intel xeon e5-1630 v4,Intel® Xeon® Processor E5-1630 v4,140.0,140.0,False,4,4,False
+intel xeon e5-1650 v4,intel xeon e5-1650 v4,Intel® Xeon® Processor E5-1650 v4,140.0,140.0,False,6,6,False
+intel xeon e5-1660 v4,intel xeon e5-1660 v4,Intel® Xeon® Processor E5-1660 v4,140.0,140.0,False,8,8,False
+intel xeon e5-1680 v4,intel xeon e5-1680 v4,Intel® Xeon® Processor E5-1680 v4,140.0,140.0,False,8,8,False
+intel xeon e5-2603 v4,intel xeon e5-2603 v4,Intel® Xeon® Processor E5-2603 v4,85.0,85.0,False,6,6,False
+intel xeon e5-2608l v4,intel xeon e5-2608l v4,Intel® Xeon® Processor E5-2608L v4,50.0,50.0,False,8,8,False
+intel xeon e5-2609 v4,intel xeon e5-2609 v4,Intel® Xeon® Processor E5-2609 v4,85.0,85.0,False,8,8,False
+intel xeon e5-2618l v4,intel xeon e5-2618l v4,Intel® Xeon® Processor E5-2618L v4,75.0,75.0,False,10,10,False
+intel xeon e5-2620 v4,intel xeon e5-2620 v4,Intel® Xeon® Processor E5-2620 v4,85.0,85.0,False,8,8,False
+intel xeon e5-2623 v4,intel xeon e5-2623 v4,Intel® Xeon® Processor E5-2623 v4,85.0,85.0,False,4,4,False
+intel xeon e5-2628l v4,intel xeon e5-2628l v4,Intel® Xeon® Processor E5-2628L v4,75.0,75.0,False,12,12,False
+intel xeon e5-2630 v4,intel xeon e5-2630 v4,Intel® Xeon® Processor E5-2630 v4,85.0,85.0,False,10,10,False
+intel xeon e5-2630l v4,intel xeon e5-2630l v4,Intel® Xeon® Processor E5-2630L v4,55.0,55.0,False,10,10,False
+intel xeon e5-2637 v4,intel xeon e5-2637 v4,Intel® Xeon® Processor E5-2637 v4,135.0,135.0,False,4,4,False
+intel xeon e5-2640 v4,intel xeon e5-2640 v4,Intel® Xeon® Processor E5-2640 v4,90.0,90.0,False,10,10,False
+intel xeon e5-2643 v4,intel xeon e5-2643 v4,Intel® Xeon® Processor E5-2643 v4,135.0,135.0,False,6,6,False
+intel xeon e5-2648l v4,intel xeon e5-2648l v4,Intel® Xeon® Processor E5-2648L v4,75.0,75.0,False,14,14,False
+intel xeon e5-2650 v4,intel xeon e5-2650 v4,Intel® Xeon® Processor E5-2650 v4,105.0,105.0,False,12,12,False
+intel xeon e5-2650l v4,intel xeon e5-2650l v4,Intel® Xeon® Processor E5-2650L v4,65.0,65.0,False,14,14,False
+intel xeon e5-2658 v4,intel xeon e5-2658 v4,Intel® Xeon® Processor E5-2658 v4,105.0,105.0,False,14,14,False
+intel xeon e5-2660 v4,intel xeon e5-2660 v4,Intel® Xeon® Processor E5-2660 v4,105.0,105.0,False,14,14,False
+intel xeon e5-2667 v4,intel xeon e5-2667 v4,Intel® Xeon® Processor E5-2667 v4,135.0,135.0,False,8,8,False
+intel xeon e5-2670 v3,intel xeon e5-2670 v3,Intel® Xeon® Processor E5-2670 v3,120.0,120.0,False,12,12,False
+intel xeon e5-2680 v4,intel xeon e5-2680 v4,Intel® Xeon® Processor E5-2680 v4,120.0,120.0,False,14,14,False
+intel xeon e5-2683 v4,intel xeon e5-2683 v4,Intel® Xeon® Processor E5-2683 v4,120.0,120.0,False,16,16,False
+intel xeon e5-2687w v4,intel xeon e5-2687w v4,Intel® Xeon® Processor E5-2687W v4,160.0,160.0,False,12,12,False
+intel xeon e5-2690 v4,intel xeon e5-2690 v4,Intel® Xeon® Processor E5-2690 v4,135.0,135.0,False,14,14,False
+intel xeon e5-2695 v4,intel xeon e5-2695 v4,Intel® Xeon® Processor E5-2695 v4,120.0,120.0,False,18,18,False
+intel xeon e5-2697 v4,intel xeon e5-2697 v4,Intel® Xeon® Processor E5-2697 v4,145.0,145.0,False,18,18,False
+intel xeon e5-2697a v4,intel xeon e5-2697a v4,Intel® Xeon® Processor E5-2697A v4,145.0,145.0,False,16,16,False
+intel xeon e5-2698 v4,intel xeon e5-2698 v4,Intel® Xeon® Processor E5-2698 v4,135.0,135.0,False,20,20,False
+intel xeon e5-2699 v4,intel xeon e5-2699 v4,Intel® Xeon® Processor E5-2699 v4,145.0,145.0,False,22,22,False
+intel xeon e5-2699a v4,intel xeon e5-2699a v4,Intel® Xeon® Processor E5-2699A v4,145.0,145.0,False,22,22,False
+intel xeon e5-2699r v4,intel xeon e5-2699r v4,Intel® Xeon® Processor E5-2699R v4,145.0,145.0,False,22,22,False
+intel xeon e5-4610 v4,intel xeon e5-4610 v4,Intel® Xeon® Processor E5-4610 v4,105.0,105.0,False,10,10,False
+intel xeon e5-4620 v4,intel xeon e5-4620 v4,Intel® Xeon® Processor E5-4620 v4,105.0,105.0,False,10,10,False
+intel xeon e5-4627 v4,intel xeon e5-4627 v4,Intel® Xeon® Processor E5-4627 v4,135.0,135.0,False,10,10,False
+intel xeon e5-4628l v4,intel xeon e5-4628l v4,Intel® Xeon® Processor E5-4628L v4,75.0,75.0,False,14,14,False
+intel xeon e5-4640 v4,intel xeon e5-4640 v4,Intel® Xeon® Processor E5-4640 v4,105.0,105.0,False,12,12,False
+intel xeon e5-4650 v4,intel xeon e5-4650 v4,Intel® Xeon® Processor E5-4650 v4,105.0,105.0,False,14,14,False
+intel xeon e5-4655 v4,intel xeon e5-4655 v4,Intel® Xeon® Processor E5-4655 v4,135.0,135.0,False,8,8,False
+intel xeon e5-4660 v4,intel xeon e5-4660 v4,Intel® Xeon® Processor E5-4660 v4,120.0,120.0,False,16,16,False
+intel xeon e5-4667 v4,intel xeon e5-4667 v4,Intel® Xeon® Processor E5-4667 v4,135.0,135.0,False,18,18,False
+intel xeon e5-4669 v4,intel xeon e5-4669 v4,Intel® Xeon® Processor E5-4669 v4,135.0,135.0,False,22,22,False
+intel xeon e7-2803,intel xeon e7-2803,Intel® Xeon® Processor E7-2803,105.0,105.0,False,6,6,False
+intel xeon e7-2820,intel xeon e7-2820,Intel® Xeon® Processor E7-2820,105.0,105.0,False,8,8,False
+intel xeon e7-2830,intel xeon e7-2830,Intel® Xeon® Processor E7-2830,105.0,105.0,False,8,8,False
+intel xeon e7-2850,intel xeon e7-2850,Intel® Xeon® Processor E7-2850,130.0,130.0,False,10,10,False
+intel xeon e7-2860,intel xeon e7-2860,Intel® Xeon® Processor E7-2860,130.0,130.0,False,10,10,False
+intel xeon e7-2870,intel xeon e7-2870,Intel® Xeon® Processor E7-2870,130.0,130.0,False,10,10,False
+intel xeon e7-4807,intel xeon e7-4807,Intel® Xeon® Processor E7-4807,95.0,95.0,False,6,6,False
+intel xeon e7-4820,intel xeon e7-4820,Intel® Xeon® Processor E7-4820,105.0,105.0,False,8,8,False
+intel xeon e7-4830,intel xeon e7-4830,Intel® Xeon® Processor E7-4830,105.0,105.0,False,8,8,False
+intel xeon e7-4850,intel xeon e7-4850,Intel® Xeon® Processor E7-4850,130.0,130.0,False,10,10,False
+intel xeon e7-4860,intel xeon e7-4860,Intel® Xeon® Processor E7-4860,130.0,130.0,False,10,10,False
+intel xeon e7-4870,intel xeon e7-4870,Intel® Xeon® Processor E7-4870,130.0,130.0,False,10,10,False
+intel xeon e7-8830,intel xeon e7-8830,Intel® Xeon® Processor E7-8830,105.0,105.0,False,8,8,False
+intel xeon e7-8837,intel xeon e7-8837,Intel® Xeon® Processor E7-8837,130.0,130.0,False,8,8,False
+intel xeon e7-8850,intel xeon e7-8850,Intel® Xeon® Processor E7-8850,130.0,130.0,False,10,10,False
+intel xeon e7-8860,intel xeon e7-8860,Intel® Xeon® Processor E7-8860,130.0,130.0,False,10,10,False
+intel xeon e7-8867l,intel xeon e7-8867l,Intel® Xeon® Processor E7-8867L,105.0,105.0,False,10,10,False
+intel xeon e7-8870,intel xeon e7-8870,Intel® Xeon® Processor E7-8870,130.0,130.0,False,10,10,False
+intel xeon e7-8890 v4,intel xeon e7-8890 v4,Intel® Xeon® Processor E7-8890 v4,165.0,165.0,False,24,24,False
+intel xeon e7-8894 v4,intel xeon e7-8894 v4,Intel® Xeon® Processor E7-8894 v4,165.0,165.0,False,24,24,False
+intel xeon gold 5115,intel xeon gold 5115,Intel® Xeon® Gold 5115 Processor,85.0,85.0,False,10,10,False
+intel xeon gold 5118,intel xeon gold 5118,Intel® Xeon® Gold 5118 Processor,105.0,105.0,False,12,12,False
+intel xeon gold 5119t,intel xeon gold 5119t,Intel® Xeon® Gold 5119T Processor,85.0,85.0,False,14,14,False
+intel xeon gold 6126,intel xeon gold 6126,Intel® Xeon® Gold 6126 Processor,125.0,125.0,False,12,12,False
+intel xeon gold 5120,intel xeon gold 5120,Intel® Xeon® Gold 5120 Processor,105.0,105.0,False,14,14,False
+intel xeon gold 5120t,intel xeon gold 5120t,Intel® Xeon® Gold 5120T Processor,105.0,105.0,False,14,14,False
+intel xeon gold 5122,intel xeon gold 5122,Intel® Xeon® Gold 5122 Processor,105.0,105.0,False,4,4,False
+intel xeon gold 5215,intel xeon gold 5215,Intel® Xeon® Gold 5215 Processor,85.0,85.0,False,10,10,False
+intel xeon gold 5215l,intel xeon gold 5215l,Intel® Xeon® Gold 5215L Processor,85.0,85.0,False,10,10,False
+intel xeon gold 5217,intel xeon gold 5217,Intel® Xeon® Gold 5217 Processor,115.0,115.0,False,8,8,False
+intel xeon gold 5218,intel xeon gold 5218,Intel® Xeon® Gold 5218 Processor,125.0,125.0,False,16,16,False
+intel xeon gold 5218b,intel xeon gold 5218b,Intel® Xeon® Gold 5218B Processor,125.0,125.0,False,16,16,False
+intel xeon gold 5218n,intel xeon gold 5218n,Intel® Xeon® Gold 5218N Processor,105.0,110.0,True,16,16,False
+intel xeon gold 5218r,intel xeon gold 5218r,Intel® Xeon® Gold 5218R Processor,125.0,125.0,False,20,20,False
+intel xeon gold 5218t,intel xeon gold 5218t,Intel® Xeon® Gold 5218T Processor,105.0,105.0,False,16,16,False
+intel xeon gold 5220,intel xeon gold 5220,Intel® Xeon® Gold 5220 Processor,125.0,125.0,False,18,18,False
+intel xeon gold 5220r,intel xeon gold 5220r,Intel® Xeon® Gold 5220R Processor,150.0,150.0,False,24,24,False
+intel xeon gold 5220s,intel xeon gold 5220s,Intel® Xeon® Gold 5220S Processor,125.0,125.0,False,18,18,False
+intel xeon gold 5220t,intel xeon gold 5220t,Intel® Xeon® Gold 5220T Processor,105.0,105.0,False,18,18,False
+intel xeon gold 5222,intel xeon gold 5222,Intel® Xeon® Gold 5222 Processor,105.0,105.0,False,4,4,False
+intel xeon gold 6126f,intel xeon gold 6126f,Intel® Xeon® Gold 6126F Processor,135.0,135.0,False,12,12,False
+intel xeon gold 6126t,intel xeon gold 6126t,Intel® Xeon® Gold 6126T Processor,125.0,125.0,False,12,12,False
+intel xeon gold 6128,intel xeon gold 6128,Intel® Xeon® Gold 6128 Processor,115.0,115.0,False,6,6,False
+intel xeon gold 6130,intel xeon gold 6130,Intel® Xeon® Gold 6130 Processor,125.0,125.0,False,16,16,False
+intel xeon gold 6130f,intel xeon gold 6130f,Intel® Xeon® Gold 6130F Processor,135.0,135.0,False,16,16,False
+intel xeon gold 6130t,intel xeon gold 6130t,Intel® Xeon® Gold 6130T Processor,125.0,125.0,False,16,16,False
+intel xeon gold 6132,intel xeon gold 6132,Intel® Xeon® Gold 6132 Processor,140.0,140.0,False,14,14,False
+intel xeon gold 6134,intel xeon gold 6134,Intel® Xeon® Gold 6134 Processor,130.0,130.0,False,8,8,False
+intel xeon gold 6136,intel xeon gold 6136,Intel® Xeon® Gold 6136 Processor,150.0,150.0,False,12,12,False
+intel xeon gold 6138,intel xeon gold 6138,Intel® Xeon® Gold 6138 Processor,125.0,125.0,False,20,20,False
+intel xeon gold 6138f,intel xeon gold 6138f,Intel® Xeon® Gold 6138F Processor,135.0,135.0,False,20,20,False
+intel xeon gold 6138p,intel xeon gold 6138p,Intel® Xeon® Gold 6138P Processor,195.0,195.0,False,20,20,False
+intel xeon gold 6138t,intel xeon gold 6138t,Intel® Xeon® Gold 6138T Processor,125.0,125.0,False,20,20,False
+intel xeon gold 6140,intel xeon gold 6140,Intel® Xeon® Gold 6140 Processor,140.0,140.0,False,18,18,False
+intel xeon gold 6142,intel xeon gold 6142,Intel® Xeon® Gold 6142 Processor,150.0,150.0,False,16,16,False
+intel xeon gold 6142f,intel xeon gold 6142f,Intel® Xeon® Gold 6142F Processor,160.0,160.0,False,16,16,False
+intel xeon gold 6144,intel xeon gold 6144,Intel® Xeon® Gold 6144 Processor,150.0,150.0,False,8,8,False
+intel xeon gold 6146,intel xeon gold 6146,Intel® Xeon® Gold 6146 Processor,165.0,165.0,False,12,12,False
+intel xeon gold 6148,intel xeon gold 6148,Intel® Xeon® Gold 6148 Processor,150.0,150.0,False,20,20,False
+intel xeon gold 6148f,intel xeon gold 6148f,Intel® Xeon® Gold 6148F Processor,160.0,160.0,False,20,20,False
+intel xeon gold 6150,intel xeon gold 6150,Intel® Xeon® Gold 6150 Processor,165.0,165.0,False,18,18,False
+intel xeon gold 6152,intel xeon gold 6152,Intel® Xeon® Gold 6152 Processor,140.0,140.0,False,22,22,False
+intel xeon gold 6154,intel xeon gold 6154,Intel® Xeon® Gold 6154 Processor,200.0,200.0,False,18,18,False
+intel xeon gold 6209u,intel xeon gold 6209u,Intel® Xeon® Gold 6209U Processor,125.0,125.0,False,20,20,False
+intel xeon gold 6210u,intel xeon gold 6210u,Intel® Xeon® Gold 6210U Processor,150.0,150.0,False,20,20,False
+intel xeon gold 6212u,intel xeon gold 6212u,Intel® Xeon® Gold 6212U Processor,165.0,165.0,False,24,24,False
+intel xeon gold 6222v,intel xeon gold 6222v,Intel® Xeon® Gold 6222V Processor,115.0,115.0,False,20,20,False
+intel xeon gold 6226,intel xeon gold 6226,Intel® Xeon® Gold 6226 Processor,125.0,125.0,False,12,12,False
+intel xeon gold 6226r,intel xeon gold 6226r,Intel® Xeon® Gold 6226R Processor,150.0,150.0,False,16,16,False
+intel xeon gold 6230,intel xeon gold 6230,Intel® Xeon® Gold 6230 Processor,125.0,125.0,False,20,20,False
+intel xeon gold 6230n,intel xeon gold 6230n,Intel® Xeon® Gold 6230N Processor,125.0,125.0,False,20,20,False
+intel xeon gold 6230r,intel xeon gold 6230r,Intel® Xeon® Gold 6230R Processor,150.0,150.0,False,26,26,False
+intel xeon gold 6230t,intel xeon gold 6230t,Intel® Xeon® Gold 6230T Processor,125.0,125.0,False,20,20,False
+intel xeon gold 6234,intel xeon gold 6234,Intel® Xeon® Gold 6234 Processor,130.0,130.0,False,8,8,False
+intel xeon gold 6238,intel xeon gold 6238,Intel® Xeon® Gold 6238 Processor,140.0,140.0,False,22,22,False
+intel xeon gold 6238l,intel xeon gold 6238l,Intel® Xeon® Gold 6238L Processor,140.0,140.0,False,22,22,False
+intel xeon gold 6238r,intel xeon gold 6238r,Intel® Xeon® Gold 6238R Processor,165.0,165.0,False,28,28,False
+intel xeon gold 6238t,intel xeon gold 6238t,Intel® Xeon® Gold 6238T Processor,125.0,125.0,False,22,22,False
+intel xeon gold 6240,intel xeon gold 6240,Intel® Xeon® Gold 6240 Processor,150.0,150.0,False,18,18,False
+intel xeon gold 6240l,intel xeon gold 6240l,Intel® Xeon® Gold 6240L Processor,150.0,150.0,False,18,18,False
+intel xeon gold 6240r,intel xeon gold 6240r,Intel® Xeon® Gold 6240R Processor,165.0,165.0,False,24,24,False
+intel xeon gold 6240y,intel xeon gold 6240y,Intel® Xeon® Gold 6240Y Processor,150.0,150.0,False,18,18,False
+intel xeon gold 6242,intel xeon gold 6242,Intel® Xeon® Gold 6242 Processor,150.0,150.0,False,16,16,False
+intel xeon gold 6242r,intel xeon gold 6242r,Intel® Xeon® Gold 6242R Processor,205.0,205.0,False,20,20,False
+intel xeon gold 6244,intel xeon gold 6244,Intel® Xeon® Gold 6244 Processor,150.0,150.0,False,8,8,False
+intel xeon gold 6246,intel xeon gold 6246,Intel® Xeon® Gold 6246 Processor,165.0,165.0,False,12,12,False
+intel xeon gold 6246r,intel xeon gold 6246r,Intel® Xeon® Gold 6246R Processor,205.0,205.0,False,16,16,False
+intel xeon gold 6248,intel xeon gold 6248,Intel® Xeon® Gold 6248 Processor,150.0,150.0,False,20,20,False
+intel xeon gold 6248r,intel xeon gold 6248r,Intel® Xeon® Gold 6248R Processor,205.0,205.0,False,24,24,False
+intel xeon gold 6252,intel xeon gold 6252,Intel® Xeon® Gold 6252 Processor,150.0,150.0,False,24,24,False
+intel xeon gold 6252n,intel xeon gold 6252n,Intel® Xeon® Gold 6252N Processor,150.0,150.0,False,24,24,False
+intel xeon gold 6254,intel xeon gold 6254,Intel® Xeon® Gold 6254 Processor,200.0,200.0,False,18,18,False
+intel xeon gold 6258r,intel xeon gold 6258r,Intel® Xeon® Gold 6258R Processor,205.0,205.0,False,28,28,False
+intel xeon gold 6262v,intel xeon gold 6262v,Intel® Xeon® Gold 6262V Processor,135.0,135.0,False,24,24,False
+intel xeon phi 7235,intel xeon phi 7235,Intel® Xeon Phi™ Processor 7235,250.0,250.0,False,64,64,False
+intel xeon phi 7285,intel xeon phi 7285,Intel® Xeon Phi™ Processor 7285,250.0,250.0,False,68,68,False
+intel xeon phi 7295,intel xeon phi 7295,Intel® Xeon Phi™ Processor 7295,320.0,320.0,False,72,72,False
+intel xeon platinum 8153,intel xeon platinum 8153,Intel® Xeon® Platinum 8153 Processor,125.0,125.0,False,16,16,False
+intel xeon platinum 8156,intel xeon platinum 8156,Intel® Xeon® Platinum 8156 Processor,105.0,105.0,False,4,4,False
+intel xeon platinum 8158,intel xeon platinum 8158,Intel® Xeon® Platinum 8158 Processor,150.0,150.0,False,12,12,False
+intel xeon platinum 8160,intel xeon platinum 8160,Intel® Xeon® Platinum 8160 Processor,150.0,150.0,False,24,24,False
+intel xeon platinum 8160f,intel xeon platinum 8160f,Intel® Xeon® Platinum 8160F Processor,160.0,160.0,False,24,24,False
+intel xeon platinum 8160t,intel xeon platinum 8160t,Intel® Xeon® Platinum 8160T Processor,150.0,150.0,False,24,24,False
+intel xeon platinum 8164,intel xeon platinum 8164,Intel® Xeon® Platinum 8164 Processor,150.0,150.0,False,26,26,False
+intel xeon platinum 8168,intel xeon platinum 8168,Intel® Xeon® Platinum 8168 Processor,205.0,205.0,False,24,24,False
+intel xeon platinum 8170,intel xeon platinum 8170,Intel® Xeon® Platinum 8170 Processor,165.0,165.0,False,26,26,False
+intel xeon platinum 8176,intel xeon platinum 8176,Intel® Xeon® Platinum 8176 Processor,165.0,165.0,False,28,28,False
+intel xeon platinum 8176f,intel xeon platinum 8176f,Intel® Xeon® Platinum 8176F Processor,173.0,173.0,False,28,28,False
+intel xeon platinum 8180,intel xeon platinum 8180,Intel® Xeon® Platinum 8180 Processor,205.0,205.0,False,28,28,False
+intel xeon platinum 8253,intel xeon platinum 8253,Intel® Xeon® Platinum 8253 Processor,125.0,125.0,False,16,16,False
+intel xeon platinum 8256,intel xeon platinum 8256,Intel® Xeon® Platinum 8256 Processor,105.0,105.0,False,4,4,False
+intel xeon platinum 8260,intel xeon platinum 8260,Intel® Xeon® Platinum 8260 Processor,165.0,165.0,False,24,24,False
+intel xeon platinum 8260l,intel xeon platinum 8260l,Intel® Xeon® Platinum 8260L Processor,165.0,165.0,False,24,24,False
+intel xeon platinum 8260y,intel xeon platinum 8260y,Intel® Xeon® Platinum 8260Y Processor,165.0,165.0,False,24,24,False
+intel xeon platinum 8268,intel xeon platinum 8268,Intel® Xeon® Platinum 8268 Processor,205.0,205.0,False,24,24,False
+intel xeon platinum 8270,intel xeon platinum 8270,Intel® Xeon® Platinum 8270 Processor,205.0,205.0,False,26,26,False
+intel xeon platinum 8276,intel xeon platinum 8276,Intel® Xeon® Platinum 8276 Processor,165.0,165.0,False,28,28,False
+intel xeon platinum 8276l,intel xeon platinum 8276l,Intel® Xeon® Platinum 8276L Processor,165.0,165.0,False,28,28,False
+intel xeon platinum 8280,intel xeon platinum 8280,Intel® Xeon® Platinum 8280 Processor,205.0,205.0,False,28,28,False
+intel xeon platinum 8280l,intel xeon platinum 8280l,Intel® Xeon® Platinum 8280L Processor,205.0,205.0,False,28,28,False
+intel xeon platinum 9221,intel xeon platinum 9221,Intel® Xeon® Platinum 9221 Processor,250.0,250.0,False,32,32,False
+intel xeon platinum 9222,intel xeon platinum 9222,Intel® Xeon® Platinum 9222 Processor,250.0,250.0,False,32,32,False
+intel xeon platinum 9242,intel xeon platinum 9242,Intel® Xeon® Platinum 9242 Processor,350.0,350.0,False,48,48,False
+intel xeon platinum 9282,intel xeon platinum 9282,Intel® Xeon® Platinum 9282 Processor,400.0,400.0,False,56,56,False
+intel xeon silver 4108,intel xeon silver 4108,Intel® Xeon® Silver 4108 Processor,85.0,85.0,False,8,8,False
+intel xeon silver 4109t,intel xeon silver 4109t,Intel® Xeon® Silver 4109T Processor,70.0,70.0,False,8,8,False
+intel xeon silver 4110,intel xeon silver 4110,Intel® Xeon® Silver 4110 Processor,85.0,85.0,False,8,8,False
+intel xeon silver 4112,intel xeon silver 4112,Intel® Xeon® Silver 4112 Processor,85.0,85.0,False,4,4,False
+intel xeon silver 4114,intel xeon silver 4114,Intel® Xeon® Silver 4114 Processor,85.0,85.0,False,10,10,False
+intel xeon silver 4114t,intel xeon silver 4114t,Intel® Xeon® Silver 4114T Processor,85.0,85.0,False,10,10,False
+intel xeon silver 4116,intel xeon silver 4116,Intel® Xeon® Silver 4116 Processor,85.0,85.0,False,12,12,False
+intel xeon silver 4116t,intel xeon silver 4116t,Intel® Xeon® Silver 4116T Processor,85.0,85.0,False,12,12,False
+intel xeon silver 4208,intel xeon silver 4208,Intel® Xeon® Silver 4208 Processor,85.0,85.0,False,8,8,False
+intel xeon silver 4209t,intel xeon silver 4209t,Intel® Xeon® Silver 4209T Processor,70.0,70.0,False,8,8,False
+intel xeon silver 4210,intel xeon silver 4210,Intel® Xeon® Silver 4210 Processor,85.0,85.0,False,10,10,False
+intel xeon silver 4210r,intel xeon silver 4210r,Intel® Xeon® Silver 4210R Processor,100.0,100.0,False,10,10,False
+intel xeon silver 4214,intel xeon silver 4214,Intel® Xeon® Silver 4214 Processor,85.0,85.0,False,12,12,False
+intel xeon silver 4214r,intel xeon silver 4214r,Intel® Xeon® Silver 4214R Processor,100.0,100.0,False,12,12,False
+intel xeon silver 4214y,intel xeon silver 4214y,Intel® Xeon® Silver 4214Y Processor,85.0,85.0,False,12,12,False
+intel xeon silver 4215,intel xeon silver 4215,Intel® Xeon® Silver 4215 Processor,85.0,85.0,False,8,8,False
+intel xeon silver 4215r,intel xeon silver 4215r,Intel® Xeon® Silver 4215R Processor,130.0,130.0,False,8,8,False
+intel xeon silver 4216,intel xeon silver 4216,Intel® Xeon® Silver 4216 Processor,100.0,100.0,False,16,16,False
+intel xeon w-2123,intel xeon w-2123,Intel® Xeon® W-2123 Processor,120.0,120.0,False,4,4,False
+intel xeon w-2125,intel xeon w-2125,Intel® Xeon® W-2125 Processor,120.0,120.0,False,4,4,False
+intel xeon w-2133,intel xeon w-2133,Intel® Xeon® W-2133 Processor,140.0,140.0,False,6,6,False
+intel xeon w-2135,intel xeon w-2135,Intel® Xeon® W-2135 Processor,140.0,140.0,False,6,6,False
+intel xeon w-2145,intel xeon w-2145,Intel® Xeon® W-2145 Processor,140.0,140.0,False,8,8,False
+intel xeon w-2155,intel xeon w-2155,Intel® Xeon® W-2155 Processor,140.0,140.0,False,10,10,False
+intel xeon w-2175,intel xeon w-2175,Intel® Xeon® W-2175 Processor,140.0,140.0,False,14,14,False
+intel xeon w-2195,intel xeon w-2195,Intel® Xeon® W-2195 Processor,140.0,140.0,False,18,18,False
+intel xeon w-3175x,intel xeon w-3175x,Intel® Xeon® W-3175X Processor,255.0,255.0,False,28,28,False
+intel xeon w-3223,intel xeon w-3223,Intel® Xeon® W-3223 Processor,160.0,160.0,False,8,8,False
+intel xeon w-3225,intel xeon w-3225,Intel® Xeon® W-3225 Processor,160.0,160.0,False,8,8,False
+intel xeon w-3235,intel xeon w-3235,Intel® Xeon® W-3235 Processor,180.0,180.0,False,12,12,False
+intel xeon w-3245,intel xeon w-3245,Intel® Xeon® W-3245 Processor,205.0,205.0,False,16,16,False
+intel xeon w-3245m,intel xeon w-3245m,Intel® Xeon® W-3245M Processor,205.0,205.0,False,16,16,False
+intel xeon w-3265,intel xeon w-3265,Intel® Xeon® W-3265 Processor,205.0,205.0,False,24,24,False
+intel xeon w-3265m,intel xeon w-3265m,Intel® Xeon® W-3265M Processor,205.0,205.0,False,24,24,False
+intel xeon w-3275,intel xeon w-3275,Intel® Xeon® W-3275 Processor,205.0,205.0,False,28,28,False
+intel xeon w-3275m,intel xeon w-3275m,Intel® Xeon® W-3275M Processor,205.0,205.0,False,28,28,False
+m128-30,m128-30,M128-30,183.0,183.0,False,128,128,False
+m128-28,m128-28,M128-28,154.0,154.0,False,128,128,False
+m128-26,m128-26,M128-26,133.0,133.0,False,128,128,False
+m96-30,m96-30,M96-30,157.0,157.0,False,96,96,False
+m96-28,m96-28,M96-28,132.0,132.0,False,96,96,False
+q80-30,q80-30,Q80-30,161.0,161.0,False,80,80,False
+q80-28,q80-28,Q80-28,124.0,124.0,False,80,80,False
+q80-26,q80-26,Q80-26,113.0,113.0,False,80,80,False
+q64-30,q64-30,Q64-30,124.0,124.0,False,64,64,False
+q64-26,q64-26,Q64-26,87.0,87.0,False,64,64,False
+q64-22,q64-22,Q64-22,69.0,69.0,False,64,64,False
+q32-17,q32-17,Q32-17,40.0,40.0,False,32,32,False
+ampereone a192-32x,ampereone a192-32x,AmpereOne A192-32X,283.0,276.0,True,192,192,False
+ampereone a192-26x,ampereone a192-26x,AmpereOne A192-26X,211.0,211.0,False,192,192,False
+ampereone a160-28x,ampereone a160-28x,AmpereOne A160-28X,214.0,215.0,True,160,160,False
+ampereone a144-27x,ampereone a144-27x,AmpereOne A144-27X,202.0,214.0,True,144,144,False
+ampereone a144-24x,ampereone a144-24x,AmpereOne A144-24X,194.0,185.0,True,144,144,False
+ampereone a128-34x,ampereone a128-34x,AmpereOne A128-34X,275.0,280.0,True,128,128,False
+ampereone a96-37x,ampereone a96-37x,AmpereOne A96-37X,273.0,292.0,True,96,96,False
+default compute cluster,default compute cluster,default compute cluster,11.23,7.23,True,1,1,False
+default local,default local,default local,12.35,7.65,True,1,1,False
+default embedded,default embedded,default embedded,8.49,5.45,True,1,1,False

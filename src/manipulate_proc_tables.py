@@ -14,8 +14,9 @@ def add_default_rows(df):
 
     # Define segment patterns for each group
     patterns = {
-        "default compute cluster": r"compute cluster|server|workstation|hpc|supercomputer|artificial intelligence|commercial|military|industrial",
+        "default compute cluster": r"compute cluster|server|cloud|workstation|hpc|supercomputer|artificial intelligence|commercial|military|industrial",
         "default local": r"local|desktop|mobile|enthusiast",
+        "default cloud": r"cloud|cloud computing|aws|azure|google cloud|oracle cloud",
         "default embedded": r"embedded"
     }
 
