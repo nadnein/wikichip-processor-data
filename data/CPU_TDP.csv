@@ -1,4 +1,4 @@
-product_id,name,time,source,intended_usage,cores,threads,tdp (W)
+product_id,name,time,source,intended usage,cores,threads,tdp (W)
 134803,Intel Atom® Processor C5115,2025-06-12 13:43:36,https://www.intel.com/content/www/us/en/products/sku/134803/intel-atom-processor-c5115-9m-cache-2-8ghz/specifications.html,local,4,4,43.0
 134802,Intel Atom® Processor C5125,2025-06-12 13:43:36,https://www.intel.com/content/www/us/en/products/sku/134802/intel-atom-processor-c5125-9m-cache-2-8ghz/specifications.html,local,8,8,50.0
 134801,Intel Atom® Processor C5310,2025-06-12 13:43:36,https://www.intel.com/content/www/us/en/products/sku/134801/intel-atom-processor-c5310-9m-cache-1-6ghz/specifications.html,local,4,4,32.0

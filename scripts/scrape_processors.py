@@ -21,8 +21,8 @@ def main(input_titles, cpu_tdp_csv, external_csv):
         processors_df = pd.DataFrame(processors, columns=["name", "launch date", "source", "intended usage", "tdp (W)", "cores", "threads", "process", "die area"])
     
         # Load external processors data to append
-        ampere_df = load_csv_from_file(external_csv)
-        processors_df = append_matching_columns(processors_df, ampere_df)
+        ext_df = load_csv_from_file(external_csv)
+        processors_df = append_matching_columns(processors_df, ext_df)
 
         # Normalize the "name" column 
         processors_df["name"] = normalize_processor_column(processors_df["name"])
@@ -48,4 +48,4 @@ if __name__ == "__main__":
 
     main(args.input_titles, args.cpu_tdp_csv, args.external_csv)
 
-    # Example usage: python -m scripts.scrape_processors --input-titles data/page_titles_2025-09-15.json --cpu-tdp-csv data/CPU_TDP_wikichip_2025-09-15.csv --external-csv data/external_processors_2025-09-15.csv
+    # Example usage: python -m scripts.scrape_processors --input-titles data/page_titles_2025-09-15.json --cpu-tdp-csv data/CPU_TDP_wikichip_2025-09-15.csv --external-csv data/ampere_processors_2025-09-15.csv
